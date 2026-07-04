@@ -1,0 +1,271 @@
+:root {
+  /* 韓国カフェ風の淡いパレット */
+  --bg: #f7f1e8;
+  --card: #fffdfa;
+  --accent: #e5a9b0;       /* ダスティローズ */
+  --accent-dark: #c98a92;
+  --accent-text: #a8666f;
+  --done: #b7ccab;         /* セージグリーン */
+  --done-dark: #9cb490;
+  --text: #4a4440;
+  --muted: #9a9088;
+  --radius: 16px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Hiragino Sans", "Noto Sans JP", "Apple SD Gothic Neo", sans-serif;
+  color: var(--text);
+  min-height: 100vh;
+  background-color: var(--bg);
+}
+
+/* 背景レイヤー1（奥）: 大きくぼんやりした色面 */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background:
+    radial-gradient(ellipse 90% 55% at 50% -15%, #fdf9f2 0%, transparent 70%),
+    radial-gradient(circle 320px at 88% 18%, #f4e0da 0%, transparent 100%),
+    radial-gradient(circle 380px at 8% 88%, #e9eee2 0%, transparent 100%),
+    radial-gradient(circle 300px at -6% 18%, #f2e6d3 0%, transparent 100%);
+}
+
+/* 背景レイヤー2（手前）: カフェシーンのインラインSVG。
+   壁の装飾は上端、床と家具は下端に固定し、幅に合わせて拡縮する */
+.cafe-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  opacity: 0.75;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cafe-bg svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.cafe-wall { max-height: 42vh; }
+.cafe-floor { max-height: 52vh; }
+
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  background: rgba(255, 253, 250, 0.8);
+  border-bottom: 1px solid #eee2d8;
+  color: var(--accent-text);
+}
+
+.app-title {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.rate-toggle {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  padding: 6px 14px;
+  background: #fff;
+  color: var(--accent-text);
+  font-size: 0.9rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.rate-toggle.slow {
+  background: #f6e7c8;
+  border-color: #dcc389;
+}
+
+.rate-icon { width: 22px; height: 22px; }
+
+#app {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+/* シーン選択（プルダウン＋ランダム） */
+.scene-nav {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.scene-select {
+  flex: 1;
+  min-width: 0;
+  border: 1px solid var(--accent);
+  background: rgba(255, 255, 255, 0.85);
+  color: var(--accent-text);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.random-scene {
+  border: none;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 3px 0 var(--accent-dark);
+  white-space: nowrap;
+}
+
+.random-scene:active { transform: translateY(2px); box-shadow: 0 1px 0 var(--accent-dark); }
+
+.scene-card {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 22px 20px;
+  box-shadow: 0 6px 20px rgba(160, 130, 110, 0.15);
+  text-align: center;
+}
+
+.scene-title { margin: 0 0 4px; font-size: 1.25rem; }
+.scene-hint { margin: 0 0 18px; color: var(--muted); font-size: 0.85rem; }
+
+/* チャンクボタン */
+.chunks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+
+.chunk {
+  border: none;
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: #fff;
+  padding: 14px 18px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 3px 0 var(--accent-dark);
+  transition: transform 0.1s, background 0.3s;
+}
+
+.chunk:active { transform: translateY(2px); box-shadow: 0 1px 0 var(--accent-dark); }
+
+.chunk.done {
+  background: var(--done);
+  box-shadow: 0 3px 0 var(--done-dark);
+}
+
+.chunk .ja {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: normal;
+  margin-top: 3px;
+  min-height: 1em;
+}
+
+/* リザルト */
+.result { margin-top: 16px; }
+
+.stage {
+  display: flex;
+  align-items: center;
+  min-height: 84px;
+  background: #faf4ec;
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  margin-bottom: 10px;
+}
+
+.stage img { width: 56px; height: 56px; }
+
+/* レイアウトパターン */
+.stage.layout-confrontation { justify-content: space-between; }
+.stage.layout-confrontation img:last-child { transform: scaleX(-1); }
+.stage.layout-romance { justify-content: center; gap: 8px; }
+.stage.layout-romance img:last-child { transform: scaleX(-1); }
+.stage.layout-farewell { justify-content: space-between; }
+.stage.layout-farewell img:first-child { transform: scaleX(-1); }
+.stage.layout-lineup { justify-content: space-evenly; }
+
+/* アニメーションパターン（3回で止まる） */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-6px) rotate(-4deg); }
+  40% { transform: translateX(6px) rotate(4deg); }
+  60% { transform: translateX(-4px); }
+  80% { transform: translateX(4px); }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-16px); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); opacity: 1; }
+  50% { transform: translateY(8px); opacity: 0.6; }
+}
+
+.stage.anim-shake img { animation: shake 0.6s ease-in-out 3; }
+.stage.anim-bounce img { animation: bounce 0.9s ease-in-out 3; }
+.stage.anim-bounce img:nth-child(even) { animation-delay: 0.3s; }
+.stage.anim-float img { animation: float 1.6s ease-in-out 3; }
+.stage.anim-float img:nth-child(even) { animation-delay: 0.5s; }
+
+.full-japanese { color: var(--muted); margin: 0 0 10px; font-size: 0.9rem; }
+
+/* 全文再生とつぎへを横並びにして移動距離を短くする */
+.actions {
+  display: flex;
+  gap: 10px;
+}
+
+.replay {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  background: #fff;
+  padding: 12px;
+  font-size: 1.15rem;
+  font-weight: bold;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.replay:active { background: #faf0f1; }
+
+.next-scene {
+  border: none;
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: #fff;
+  padding: 12px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 3px 0 var(--accent-dark);
+  white-space: nowrap;
+}
+
+.next-scene:active { transform: translateY(2px); box-shadow: 0 1px 0 var(--accent-dark); }
