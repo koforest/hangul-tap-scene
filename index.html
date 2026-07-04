@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+  <!-- バージョンを上げるときは、下記の ?v= を全て（style.css / data.js / app.js）と
+       画面右下の .version-badge の表示テキストを同じ番号に揃えること。
+       クエリ文字列がキャッシュバスターとして機能し、更新をユーザーに届ける。 -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ハングルでタタッ！ドラマのセリフでハングル学習</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=1.2.0">
 </head>
 <body>
   <!-- 背景のカフェシーン（インラインSVG・画像ファイル不使用）
@@ -163,7 +166,7 @@
 
   <div class="version-badge">v1.2.0</div>
 
-  <script src="data.js"></script>
-  <script src="app.js"></script>
+  <script src="data.js?v=1.2.0"></script>
+  <script src="app.js?v=1.2.0"></script>
 </body>
 </html>
