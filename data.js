@@ -7,12 +7,24 @@ window.SCENES_DATA = {
       "title": "神社",
       "chunks": [
         {
-          "korean": "새해 첫날엔",
-          "japanese": "元旦には"
+          "korean": "새해",
+          "japanese": "元旦、"
         },
         {
-          "korean": "같이 신사에 가자",
-          "japanese": "一緒に神社へ行こうね"
+          "korean": "첫날엔",
+          "japanese": "には"
+        },
+        {
+          "korean": "같이",
+          "japanese": "一緒に"
+        },
+        {
+          "korean": "신사에",
+          "japanese": "神社へ"
+        },
+        {
+          "korean": "가자",
+          "japanese": "行こうね"
         }
       ],
       "result": {
@@ -35,8 +47,12 @@ window.SCENES_DATA = {
       "title": "はさみ",
       "chunks": [
         {
-          "korean": "가위 들고 있으니까",
-          "japanese": "はさみを持ってると"
+          "korean": "가위",
+          "japanese": "はさみを"
+        },
+        {
+          "korean": "들고 있으니까",
+          "japanese": "持ってると"
         },
         {
           "korean": "긴장되네,",
@@ -67,12 +83,20 @@ window.SCENES_DATA = {
       "title": "イルカ",
       "chunks": [
         {
-          "korean": "여름 바다에",
-          "japanese": "夏の海に"
+          "korean": "여름",
+          "japanese": "夏の"
         },
         {
-          "korean": "돌고래 보러 갈래?",
-          "japanese": "イルカを見に行かない？"
+          "korean": "바다에",
+          "japanese": "海に"
+        },
+        {
+          "korean": "돌고래",
+          "japanese": "イルカを"
+        },
+        {
+          "korean": "보러 갈래?",
+          "japanese": "見に行かない？"
         }
       ],
       "result": {
@@ -94,12 +118,24 @@ window.SCENES_DATA = {
       "title": "バター",
       "chunks": [
         {
-          "korean": "버터 녹는 냄새가",
-          "japanese": "バターが溶ける匂いが"
+          "korean": "버터",
+          "japanese": "バターが"
         },
         {
-          "korean": "부엌에 퍼졌어",
-          "japanese": "台所に広がったよ"
+          "korean": "녹는",
+          "japanese": "溶ける"
+        },
+        {
+          "korean": "냄새가",
+          "japanese": "匂いが"
+        },
+        {
+          "korean": "부엌에",
+          "japanese": "台所に"
+        },
+        {
+          "korean": "퍼졌어",
+          "japanese": "広がったよ"
         }
       ],
       "result": {
@@ -122,16 +158,24 @@ window.SCENES_DATA = {
       "title": "竜巻",
       "chunks": [
         {
-          "korean": "네가 나타나고",
-          "japanese": "君が現れてから"
+          "korean": "네가",
+          "japanese": "君が"
+        },
+        {
+          "korean": "나타나고",
+          "japanese": "現れてから"
         },
         {
           "korean": "내 마음이",
           "japanese": "私の心が"
         },
         {
-          "korean": "토네이도처럼 흔들려",
-          "japanese": "竜巻みたいに揺れてる"
+          "korean": "토네이도처럼",
+          "japanese": "竜巻みたいに"
+        },
+        {
+          "korean": "흔들려",
+          "japanese": "揺れてる"
         }
       ],
       "result": {
@@ -153,12 +197,20 @@ window.SCENES_DATA = {
       "title": "フラミンゴ",
       "chunks": [
         {
-          "korean": "홍학이 한 발로",
-          "japanese": "フラミンゴが片足で"
+          "korean": "홍학이",
+          "japanese": "フラミンゴが"
         },
         {
-          "korean": "서 있는 거 보면 신기해",
-          "japanese": "立ってるのを見ると不思議だね"
+          "korean": "한 발로",
+          "japanese": "片足で"
+        },
+        {
+          "korean": "서 있는 거 보면",
+          "japanese": "立ってるのを見ると"
+        },
+        {
+          "korean": "신기해",
+          "japanese": "不思議だね"
         }
       ],
       "result": {
@@ -181,12 +233,20 @@ window.SCENES_DATA = {
       "title": "電話",
       "chunks": [
         {
-          "korean": "시차 때문에",
-          "japanese": "時差のせいで"
+          "korean": "시차",
+          "japanese": "時差の"
         },
         {
-          "korean": "이 시간에나 전화할 수 있었어",
-          "japanese": "この時間にしか電話できなかったんだ"
+          "korean": "때문에",
+          "japanese": "せいで"
+        },
+        {
+          "korean": "이 시간에나",
+          "japanese": "この時間にしか"
+        },
+        {
+          "korean": "전화할 수 있었어",
+          "japanese": "電話できなかったんだ"
         }
       ],
       "result": {
@@ -213,8 +273,16 @@ window.SCENES_DATA = {
           "japanese": "遊園地で"
         },
         {
-          "korean": "프레첼 하나 사 먹을까?",
-          "japanese": "プレッツェル一つ買って食べようか？"
+          "korean": "프레첼",
+          "japanese": "プレッツェル"
+        },
+        {
+          "korean": "하나",
+          "japanese": "一つ"
+        },
+        {
+          "korean": "사 먹을까?",
+          "japanese": "買って食べようか？"
         }
       ],
       "result": {
@@ -236,16 +304,24 @@ window.SCENES_DATA = {
       "title": "木",
       "chunks": [
         {
-          "korean": "저 나무 밑에서",
-          "japanese": "あの木の下で"
+          "korean": "저 나무",
+          "japanese": "あの木の"
+        },
+        {
+          "korean": "밑에서",
+          "japanese": "下で"
         },
         {
           "korean": "몇 년째",
           "japanese": "何年も"
         },
         {
-          "korean": "너를 기다렸어",
-          "japanese": "君を待ってたんだ"
+          "korean": "너를",
+          "japanese": "君を"
+        },
+        {
+          "korean": "기다렸어",
+          "japanese": "待ってたんだ"
         }
       ],
       "result": {
@@ -268,12 +344,28 @@ window.SCENES_DATA = {
       "title": "手袋",
       "chunks": [
         {
-          "korean": "손 시리지,",
-          "japanese": "手が冷たいでしょ、"
+          "korean": "손",
+          "japanese": "手が"
         },
         {
-          "korean": "내 장갑 한 짝 껴",
-          "japanese": "私の手袋、片方はめて"
+          "korean": "시리지,",
+          "japanese": "冷たいでしょ、"
+        },
+        {
+          "korean": "내",
+          "japanese": "私の"
+        },
+        {
+          "korean": "장갑",
+          "japanese": "手袋、"
+        },
+        {
+          "korean": "한 짝",
+          "japanese": "片方"
+        },
+        {
+          "korean": "껴",
+          "japanese": "はめて"
         }
       ],
       "result": {
@@ -296,12 +388,28 @@ window.SCENES_DATA = {
       "title": "ゴリラ",
       "chunks": [
         {
-          "korean": "고릴라 가슴 치는 소리에",
-          "japanese": "ゴリラが胸を叩く音に"
+          "korean": "고릴라",
+          "japanese": "ゴリラが"
         },
         {
-          "korean": "다들 놀랐잖아",
-          "japanese": "みんな驚いたよね"
+          "korean": "가슴",
+          "japanese": "胸を"
+        },
+        {
+          "korean": "치는",
+          "japanese": "叩く"
+        },
+        {
+          "korean": "소리에",
+          "japanese": "音に"
+        },
+        {
+          "korean": "다들",
+          "japanese": "みんな"
+        },
+        {
+          "korean": "놀랐잖아",
+          "japanese": "驚いたよね"
         }
       ],
       "result": {
@@ -323,12 +431,20 @@ window.SCENES_DATA = {
       "title": "プリン",
       "chunks": [
         {
-          "korean": "냉장고에 푸딩",
-          "japanese": "冷蔵庫にプリンを"
+          "korean": "냉장고에",
+          "japanese": "冷蔵庫に"
         },
         {
-          "korean": "숨겨 놨는데 들켰네",
-          "japanese": "隠しておいたのに見つかっちゃった"
+          "korean": "푸딩",
+          "japanese": "プリンを"
+        },
+        {
+          "korean": "숨겨 놨는데",
+          "japanese": "隠しておいたのに"
+        },
+        {
+          "korean": "들켰네",
+          "japanese": "見つかっちゃった"
         }
       ],
       "result": {
@@ -351,12 +467,24 @@ window.SCENES_DATA = {
       "title": "星",
       "chunks": [
         {
-          "korean": "별똥별 떨어질 때",
-          "japanese": "流れ星が落ちる時に"
+          "korean": "별똥별",
+          "japanese": "流れ星が"
         },
         {
-          "korean": "소원 빌면 이루어진대",
-          "japanese": "願いごとをすれば叶うんだって"
+          "korean": "떨어질 때",
+          "japanese": "落ちる時に"
+        },
+        {
+          "korean": "소원",
+          "japanese": "願いごとを"
+        },
+        {
+          "korean": "빌면",
+          "japanese": "すれば"
+        },
+        {
+          "korean": "이루어진대",
+          "japanese": "叶うんだって"
         }
       ],
       "result": {
@@ -383,8 +511,20 @@ window.SCENES_DATA = {
           "japanese": "オウムが"
         },
         {
-          "korean": "내 말투를 그대로 따라 해",
-          "japanese": "私の口ぐせをそのまま真似するんだ"
+          "korean": "내",
+          "japanese": "私の"
+        },
+        {
+          "korean": "말투를",
+          "japanese": "口ぐせを"
+        },
+        {
+          "korean": "그대로",
+          "japanese": "そのまま"
+        },
+        {
+          "korean": "따라 해",
+          "japanese": "真似するんだ"
         }
       ],
       "result": {
@@ -407,12 +547,20 @@ window.SCENES_DATA = {
       "title": "ロボット",
       "chunks": [
         {
-          "korean": "이 로봇 장난감,",
-          "japanese": "このロボットのおもちゃ、"
+          "korean": "이 로봇",
+          "japanese": "このロボットの"
         },
         {
-          "korean": "십 년 넘게 갖고 있었네",
-          "japanese": "10年以上持ってたんだね"
+          "korean": "장난감,",
+          "japanese": "おもちゃ、"
+        },
+        {
+          "korean": "십 년 넘게",
+          "japanese": "10年以上"
+        },
+        {
+          "korean": "갖고 있었네",
+          "japanese": "持ってたんだね"
         }
       ],
       "result": {
@@ -435,12 +583,24 @@ window.SCENES_DATA = {
       "title": "じゃがいも",
       "chunks": [
         {
-          "korean": "가을엔 밭에서",
-          "japanese": "秋は畑で"
+          "korean": "가을엔",
+          "japanese": "秋は"
         },
         {
-          "korean": "감자 캐는 게 일이었어",
-          "japanese": "じゃがいも掘りが仕事だったんだ"
+          "korean": "밭에서",
+          "japanese": "畑で"
+        },
+        {
+          "korean": "감자",
+          "japanese": "じゃがいも"
+        },
+        {
+          "korean": "캐는 게",
+          "japanese": "掘りが"
+        },
+        {
+          "korean": "일이었어",
+          "japanese": "仕事だったんだ"
         }
       ],
       "result": {
@@ -463,12 +623,24 @@ window.SCENES_DATA = {
       "title": "アザラシ",
       "chunks": [
         {
-          "korean": "물개가 박수 치듯이",
-          "japanese": "アザラシが拍手するみたいに"
+          "korean": "물개가",
+          "japanese": "アザラシが"
         },
         {
-          "korean": "손뼉 치는 거 귀엽지",
-          "japanese": "手を叩くの、かわいいよね"
+          "korean": "박수 치듯이",
+          "japanese": "拍手するみたいに"
+        },
+        {
+          "korean": "손뼉",
+          "japanese": "手を"
+        },
+        {
+          "korean": "치는 거",
+          "japanese": "叩くの、"
+        },
+        {
+          "korean": "귀엽지",
+          "japanese": "かわいいよね"
         }
       ],
       "result": {
@@ -494,8 +666,12 @@ window.SCENES_DATA = {
           "japanese": "つらい時も"
         },
         {
-          "korean": "이 손 놓지 않을게",
-          "japanese": "この手を離さないよ"
+          "korean": "이 손",
+          "japanese": "この手を"
+        },
+        {
+          "korean": "놓지 않을게",
+          "japanese": "離さないよ"
         }
       ],
       "result": {
@@ -518,12 +694,20 @@ window.SCENES_DATA = {
       "title": "お肉",
       "chunks": [
         {
-          "korean": "주말엔 마당에서",
-          "japanese": "週末は庭で"
+          "korean": "주말엔",
+          "japanese": "週末は"
         },
         {
-          "korean": "고기 구워 먹자",
-          "japanese": "お肉を焼いて食べようよ"
+          "korean": "마당에서",
+          "japanese": "庭で"
+        },
+        {
+          "korean": "고기",
+          "japanese": "お肉を"
+        },
+        {
+          "korean": "구워 먹자",
+          "japanese": "焼いて食べようよ"
         }
       ],
       "result": {
@@ -546,12 +730,20 @@ window.SCENES_DATA = {
       "title": "雷",
       "chunks": [
         {
-          "korean": "번개 칠 때마다",
-          "japanese": "雷が鳴るたびに"
+          "korean": "번개",
+          "japanese": "雷が"
         },
         {
-          "korean": "이불 뒤집어썼잖아",
-          "japanese": "布団をかぶってたよね"
+          "korean": "칠 때마다",
+          "japanese": "鳴るたびに"
+        },
+        {
+          "korean": "이불",
+          "japanese": "布団を"
+        },
+        {
+          "korean": "뒤집어썼잖아",
+          "japanese": "かぶってたよね"
         }
       ],
       "result": {
@@ -574,12 +766,20 @@ window.SCENES_DATA = {
       "title": "マンゴー",
       "chunks": [
         {
-          "korean": "신혼여행에서 먹었던",
-          "japanese": "新婚旅行で食べた"
+          "korean": "신혼여행에서",
+          "japanese": "新婚旅行で"
         },
         {
-          "korean": "망고 빙수,",
-          "japanese": "マンゴーかき氷、"
+          "korean": "먹었던",
+          "japanese": "食べた"
+        },
+        {
+          "korean": "망고",
+          "japanese": "マンゴー"
+        },
+        {
+          "korean": "빙수,",
+          "japanese": "かき氷、"
         },
         {
           "korean": "잊을 수가 없어",
@@ -609,8 +809,16 @@ window.SCENES_DATA = {
           "japanese": "辛くて"
         },
         {
-          "korean": "입에서 불 나는 줄 알았어",
-          "japanese": "口から火が出るかと思ったよ"
+          "korean": "입에서",
+          "japanese": "口から"
+        },
+        {
+          "korean": "불",
+          "japanese": "火が"
+        },
+        {
+          "korean": "나는 줄 알았어",
+          "japanese": "出るかと思ったよ"
         }
       ],
       "result": {
@@ -632,12 +840,24 @@ window.SCENES_DATA = {
       "title": "コイン",
       "chunks": [
         {
-          "korean": "분수에 동전 던지면서",
-          "japanese": "噴水にコインを投げながら"
+          "korean": "분수에",
+          "japanese": "噴水に"
         },
         {
-          "korean": "소원 빌었잖아",
-          "japanese": "願いごとをしたよね"
+          "korean": "동전",
+          "japanese": "コインを"
+        },
+        {
+          "korean": "던지면서",
+          "japanese": "投げながら"
+        },
+        {
+          "korean": "소원",
+          "japanese": "願いごとを"
+        },
+        {
+          "korean": "빌었잖아",
+          "japanese": "したよね"
         }
       ],
       "result": {
@@ -660,12 +880,24 @@ window.SCENES_DATA = {
       "title": "ピアノ",
       "chunks": [
         {
-          "korean": "비 오는 오후엔",
-          "japanese": "雨の日の午後には"
+          "korean": "비",
+          "japanese": "雨"
         },
         {
-          "korean": "피아노 소리가",
-          "japanese": "ピアノの音が"
+          "korean": "오는",
+          "japanese": "降る"
+        },
+        {
+          "korean": "오후엔",
+          "japanese": "日の午後には"
+        },
+        {
+          "korean": "피아노",
+          "japanese": "ピアノの"
+        },
+        {
+          "korean": "소리가",
+          "japanese": "音が"
         },
         {
           "korean": "잘 어울려",
@@ -692,12 +924,24 @@ window.SCENES_DATA = {
       "title": "ヘッドホン",
       "chunks": [
         {
-          "korean": "헤드폰 볼륨 좀 낮춰,",
-          "japanese": "ヘッドホンの音量下げて、"
+          "korean": "헤드폰",
+          "japanese": "ヘッドホンの"
         },
         {
-          "korean": "옆에서도 다 들려",
-          "japanese": "隣まで全部聞こえてるよ"
+          "korean": "볼륨",
+          "japanese": "音量"
+        },
+        {
+          "korean": "좀 낮춰,",
+          "japanese": "ちょっと下げて、"
+        },
+        {
+          "korean": "옆에서도",
+          "japanese": "隣まで"
+        },
+        {
+          "korean": "다 들려",
+          "japanese": "全部聞こえてるよ"
         }
       ],
       "result": {
@@ -720,12 +964,20 @@ window.SCENES_DATA = {
       "title": "さくらんぼ",
       "chunks": [
         {
-          "korean": "체리 두 개",
-          "japanese": "さくらんぼ二つ"
+          "korean": "체리",
+          "japanese": "さくらんぼ"
         },
         {
-          "korean": "귀에 걸어 볼래?",
-          "japanese": "耳にかけてみない？"
+          "korean": "두 개",
+          "japanese": "二つ"
+        },
+        {
+          "korean": "귀에",
+          "japanese": "耳に"
+        },
+        {
+          "korean": "걸어 볼래?",
+          "japanese": "かけてみない？"
         }
       ],
       "result": {
@@ -751,12 +1003,24 @@ window.SCENES_DATA = {
           "japanese": "子どもの頃"
         },
         {
-          "korean": "종이 왕관 쓰고",
-          "japanese": "紙の王冠をかぶって"
+          "korean": "종이",
+          "japanese": "紙の"
         },
         {
-          "korean": "공주 놀이 했잖아",
-          "japanese": "お姫様ごっこしたよね"
+          "korean": "왕관",
+          "japanese": "王冠を"
+        },
+        {
+          "korean": "쓰고",
+          "japanese": "かぶって"
+        },
+        {
+          "korean": "공주 놀이",
+          "japanese": "お姫様ごっこ"
+        },
+        {
+          "korean": "했잖아",
+          "japanese": "したよね"
         }
       ],
       "result": {
@@ -779,12 +1043,20 @@ window.SCENES_DATA = {
       "title": "マイク",
       "chunks": [
         {
-          "korean": "마이크 잡으니까",
-          "japanese": "マイクを持ったら"
+          "korean": "마이크",
+          "japanese": "マイクを"
         },
         {
-          "korean": "갑자기 떨린다",
-          "japanese": "急に緊張してきた"
+          "korean": "잡으니까",
+          "japanese": "持ったら"
+        },
+        {
+          "korean": "갑자기",
+          "japanese": "急に"
+        },
+        {
+          "korean": "떨린다",
+          "japanese": "緊張してきた"
         }
       ],
       "result": {
@@ -810,8 +1082,12 @@ window.SCENES_DATA = {
           "japanese": "ハリネズミも"
         },
         {
-          "korean": "만지다 보면 익숙해져",
-          "japanese": "触ってるうちに慣れるものだよ"
+          "korean": "만지다 보면",
+          "japanese": "触ってるうちに"
+        },
+        {
+          "korean": "익숙해져",
+          "japanese": "慣れるものだよ"
         }
       ],
       "result": {
@@ -834,12 +1110,24 @@ window.SCENES_DATA = {
       "title": "トロフィー",
       "chunks": [
         {
-          "korean": "드디어 트로피 들고",
-          "japanese": "ついにトロフィーを持って"
+          "korean": "드디어",
+          "japanese": "ついに"
         },
         {
-          "korean": "웃는 날이 왔다",
-          "japanese": "笑える日が来たね"
+          "korean": "트로피",
+          "japanese": "トロフィーを"
+        },
+        {
+          "korean": "들고",
+          "japanese": "持って"
+        },
+        {
+          "korean": "웃는 날이",
+          "japanese": "笑える日が"
+        },
+        {
+          "korean": "왔다",
+          "japanese": "来たね"
         }
       ],
       "result": {
@@ -866,8 +1154,16 @@ window.SCENES_DATA = {
           "japanese": "この定規で"
         },
         {
-          "korean": "매년 키를 재 왔잖아",
-          "japanese": "毎年身長を測ってきたよね"
+          "korean": "매년",
+          "japanese": "毎年"
+        },
+        {
+          "korean": "키를",
+          "japanese": "身長を"
+        },
+        {
+          "korean": "재 왔잖아",
+          "japanese": "測ってきたよね"
         }
       ],
       "result": {
@@ -889,12 +1185,20 @@ window.SCENES_DATA = {
       "title": "地球",
       "chunks": [
         {
-          "korean": "이 넓은 지구에서",
-          "japanese": "この広い地球で"
+          "korean": "이 넓은",
+          "japanese": "この広い"
         },
         {
-          "korean": "너를 만난 게",
-          "japanese": "君と出会えたことが"
+          "korean": "지구에서",
+          "japanese": "地球で"
+        },
+        {
+          "korean": "너를",
+          "japanese": "君と"
+        },
+        {
+          "korean": "만난 게",
+          "japanese": "出会えたことが"
         },
         {
           "korean": "기적이야",
@@ -921,12 +1225,20 @@ window.SCENES_DATA = {
       "title": "ブーツ",
       "chunks": [
         {
-          "korean": "첫눈 오는 날",
-          "japanese": "初雪の日は"
+          "korean": "첫눈",
+          "japanese": "初雪の"
         },
         {
-          "korean": "부츠 신고 나가자",
-          "japanese": "ブーツを履いて出かけよう"
+          "korean": "오는 날",
+          "japanese": "日は"
+        },
+        {
+          "korean": "부츠",
+          "japanese": "ブーツを"
+        },
+        {
+          "korean": "신고 나가자",
+          "japanese": "履いて出かけよう"
         }
       ],
       "result": {
@@ -949,12 +1261,24 @@ window.SCENES_DATA = {
       "title": "カヌー",
       "chunks": [
         {
-          "korean": "안개 낀 호수에서",
-          "japanese": "霧がかった湖で"
+          "korean": "안개",
+          "japanese": "霧が"
         },
         {
-          "korean": "카누 타 본 적 있어?",
-          "japanese": "カヌーに乗ったことある？"
+          "korean": "낀",
+          "japanese": "かかった"
+        },
+        {
+          "korean": "호수에서",
+          "japanese": "湖で"
+        },
+        {
+          "korean": "카누",
+          "japanese": "カヌーに"
+        },
+        {
+          "korean": "타 본 적 있어?",
+          "japanese": "乗ったことある？"
         }
       ],
       "result": {
@@ -977,12 +1301,20 @@ window.SCENES_DATA = {
       "title": "パラシュート",
       "chunks": [
         {
-          "korean": "낙하산 펼쳐질 때까지",
-          "japanese": "パラシュートが開くまで"
+          "korean": "낙하산",
+          "japanese": "パラシュートが"
         },
         {
-          "korean": "숨도 못 쉬었어",
-          "japanese": "息もできなかったよ"
+          "korean": "펼쳐질 때까지",
+          "japanese": "開くまで"
+        },
+        {
+          "korean": "숨도",
+          "japanese": "息も"
+        },
+        {
+          "korean": "못 쉬었어",
+          "japanese": "できなかったよ"
         }
       ],
       "result": {
@@ -1008,12 +1340,20 @@ window.SCENES_DATA = {
           "japanese": "試験前日に"
         },
         {
-          "korean": "연필 깎으면서",
-          "japanese": "鉛筆を削りながら"
+          "korean": "연필",
+          "japanese": "鉛筆を"
         },
         {
-          "korean": "마음을 다잡았어",
-          "japanese": "気持ちを引き締めたよ"
+          "korean": "깎으면서",
+          "japanese": "削りながら"
+        },
+        {
+          "korean": "마음을",
+          "japanese": "気持ちを"
+        },
+        {
+          "korean": "다잡았어",
+          "japanese": "引き締めたよ"
         }
       ],
       "result": {
@@ -1035,12 +1375,20 @@ window.SCENES_DATA = {
       "title": "パプリカ",
       "chunks": [
         {
-          "korean": "빨간 파프리카가",
-          "japanese": "赤いパプリカが"
+          "korean": "빨간",
+          "japanese": "赤い"
         },
         {
-          "korean": "제일 달아",
-          "japanese": "一番甘いんだよ"
+          "korean": "파프리카가",
+          "japanese": "パプリカが"
+        },
+        {
+          "korean": "제일",
+          "japanese": "一番"
+        },
+        {
+          "korean": "달아",
+          "japanese": "甘いんだよ"
         }
       ],
       "result": {
@@ -1067,12 +1415,24 @@ window.SCENES_DATA = {
           "japanese": "川辺で"
         },
         {
-          "korean": "납작한 돌 찾아서",
-          "japanese": "平たい石を探して"
+          "korean": "납작한",
+          "japanese": "平たい"
         },
         {
-          "korean": "물수제비 떴잖아",
-          "japanese": "水切りしたよね"
+          "korean": "돌",
+          "japanese": "石を"
+        },
+        {
+          "korean": "찾아서",
+          "japanese": "探して"
+        },
+        {
+          "korean": "물수제비",
+          "japanese": "水切り"
+        },
+        {
+          "korean": "떴잖아",
+          "japanese": "したよね"
         }
       ],
       "result": {
@@ -1094,12 +1454,24 @@ window.SCENES_DATA = {
       "title": "耳",
       "chunks": [
         {
-          "korean": "귀 좀 가까이 대 봐,",
-          "japanese": "耳を貸して、"
+          "korean": "귀",
+          "japanese": "耳を"
         },
         {
-          "korean": "조용히 말할게",
-          "japanese": "そっと話すから"
+          "korean": "좀",
+          "japanese": "ちょっと"
+        },
+        {
+          "korean": "가까이 대 봐,",
+          "japanese": "近づけて、"
+        },
+        {
+          "korean": "조용히",
+          "japanese": "そっと"
+        },
+        {
+          "korean": "말할게",
+          "japanese": "話すから"
         }
       ],
       "result": {
@@ -1122,12 +1494,20 @@ window.SCENES_DATA = {
       "title": "靴下",
       "chunks": [
         {
-          "korean": "양말 한 짝이",
-          "japanese": "靴下の片方が"
+          "korean": "양말",
+          "japanese": "靴下の"
         },
         {
-          "korean": "자꾸 사라지는 것 같아",
-          "japanese": "よくなくなる気がするよ"
+          "korean": "한 짝이",
+          "japanese": "片方が"
+        },
+        {
+          "korean": "자꾸",
+          "japanese": "よく"
+        },
+        {
+          "korean": "사라지는 것 같아",
+          "japanese": "なくなる気がするよ"
         }
       ],
       "result": {
@@ -1149,12 +1529,20 @@ window.SCENES_DATA = {
       "title": "月",
       "chunks": [
         {
-          "korean": "저 달 보니까",
-          "japanese": "あの月を見てたら"
+          "korean": "저 달",
+          "japanese": "あの月を"
         },
         {
-          "korean": "고향 생각난다",
-          "japanese": "故郷を思い出すな"
+          "korean": "보니까",
+          "japanese": "見てたら"
+        },
+        {
+          "korean": "고향",
+          "japanese": "故郷を"
+        },
+        {
+          "korean": "생각난다",
+          "japanese": "思い出すな"
         }
       ],
       "result": {
@@ -1177,12 +1565,20 @@ window.SCENES_DATA = {
       "title": "メダル",
       "chunks": [
         {
-          "korean": "이 메달 따려고",
-          "japanese": "このメダルを取るために"
+          "korean": "이 메달",
+          "japanese": "このメダルを"
         },
         {
-          "korean": "얼마나 고생했는지 몰라",
-          "japanese": "どれだけ苦労したことか"
+          "korean": "따려고",
+          "japanese": "取るために"
+        },
+        {
+          "korean": "얼마나",
+          "japanese": "どれだけ"
+        },
+        {
+          "korean": "고생했는지 몰라",
+          "japanese": "苦労したことか"
         }
       ],
       "result": {
@@ -1205,12 +1601,28 @@ window.SCENES_DATA = {
       "title": "ヨット",
       "chunks": [
         {
-          "korean": "요트 타고",
-          "japanese": "ヨットに乗って"
+          "korean": "요트",
+          "japanese": "ヨットに"
         },
         {
-          "korean": "바람 맞으면서 한 바퀴 돌자",
-          "japanese": "風を受けながら一回りしよう"
+          "korean": "타고",
+          "japanese": "乗って"
+        },
+        {
+          "korean": "바람",
+          "japanese": "風を"
+        },
+        {
+          "korean": "맞으면서",
+          "japanese": "受けながら"
+        },
+        {
+          "korean": "한 바퀴",
+          "japanese": "一回り"
+        },
+        {
+          "korean": "돌자",
+          "japanese": "しよう"
         }
       ],
       "result": {
@@ -1233,16 +1645,28 @@ window.SCENES_DATA = {
       "title": "キウイ",
       "chunks": [
         {
-          "korean": "그 나라에서 먹었던",
-          "japanese": "あの国で食べた"
+          "korean": "그 나라에서",
+          "japanese": "あの国で"
         },
         {
-          "korean": "키위 맛이",
-          "japanese": "キウイの味が"
+          "korean": "먹었던",
+          "japanese": "食べた"
         },
         {
-          "korean": "아직도 생각나",
-          "japanese": "まだ忘れられないよ"
+          "korean": "키위",
+          "japanese": "キウイの"
+        },
+        {
+          "korean": "맛이",
+          "japanese": "味が"
+        },
+        {
+          "korean": "아직도",
+          "japanese": "まだ"
+        },
+        {
+          "korean": "생각나",
+          "japanese": "忘れられないよ"
         }
       ],
       "result": {
@@ -1265,12 +1689,20 @@ window.SCENES_DATA = {
       "title": "サンタ",
       "chunks": [
         {
-          "korean": "너는 몇 살까지",
-          "japanese": "君は何歳まで"
+          "korean": "너는",
+          "japanese": "君は"
         },
         {
-          "korean": "산타를 믿었어?",
-          "japanese": "サンタを信じてたの？"
+          "korean": "몇 살까지",
+          "japanese": "何歳まで"
+        },
+        {
+          "korean": "산타를",
+          "japanese": "サンタを"
+        },
+        {
+          "korean": "믿었어?",
+          "japanese": "信じてたの？"
         }
       ],
       "result": {
@@ -1293,12 +1725,24 @@ window.SCENES_DATA = {
       "title": "バドミントン",
       "chunks": [
         {
-          "korean": "저녁 바람 선선한데",
-          "japanese": "夕方の風が涼しいから"
+          "korean": "저녁",
+          "japanese": "夕方の"
         },
         {
-          "korean": "배드민턴이나 칠까?",
-          "japanese": "バドミントンでもしようか？"
+          "korean": "바람",
+          "japanese": "風が"
+        },
+        {
+          "korean": "선선한데",
+          "japanese": "涼しいから"
+        },
+        {
+          "korean": "배드민턴이나",
+          "japanese": "バドミントンでも"
+        },
+        {
+          "korean": "칠까?",
+          "japanese": "しようか？"
         }
       ],
       "result": {
@@ -1325,8 +1769,16 @@ window.SCENES_DATA = {
           "japanese": "雨の降る日に"
         },
         {
-          "korean": "우산 없이 서 있던 소녀가",
-          "japanese": "傘もなく立っていた女の子が"
+          "korean": "우산 없이",
+          "japanese": "傘もなく"
+        },
+        {
+          "korean": "서 있던",
+          "japanese": "立っていた"
+        },
+        {
+          "korean": "소녀가",
+          "japanese": "女の子が"
         },
         {
           "korean": "너였어",
@@ -1360,8 +1812,16 @@ window.SCENES_DATA = {
           "japanese": "家族みんなが"
         },
         {
-          "korean": "배추 씻느라 정신없어",
-          "japanese": "白菜洗いに大忙しなんだ"
+          "korean": "배추",
+          "japanese": "白菜"
+        },
+        {
+          "korean": "씻느라",
+          "japanese": "洗いに"
+        },
+        {
+          "korean": "정신없어",
+          "japanese": "大忙しなんだ"
         }
       ],
       "result": {
@@ -1384,12 +1844,28 @@ window.SCENES_DATA = {
       "title": "ラジオ",
       "chunks": [
         {
-          "korean": "라디오에서 우리 노래 나온다,",
-          "japanese": "ラジオで私たちの歌が流れてる、"
+          "korean": "라디오에서",
+          "japanese": "ラジオで"
         },
         {
-          "korean": "볼륨 좀 키워 봐",
-          "japanese": "ボリューム上げてみて"
+          "korean": "우리 노래",
+          "japanese": "私たちの歌が"
+        },
+        {
+          "korean": "나온다,",
+          "japanese": "流れてる、"
+        },
+        {
+          "korean": "볼륨",
+          "japanese": "ボリューム"
+        },
+        {
+          "korean": "좀",
+          "japanese": "ちょっと"
+        },
+        {
+          "korean": "키워 봐",
+          "japanese": "上げてみて"
         }
       ],
       "result": {
@@ -1411,12 +1887,20 @@ window.SCENES_DATA = {
       "title": "焼き芋",
       "chunks": [
         {
-          "korean": "따뜻한 고구마",
-          "japanese": "あったかい焼き芋"
+          "korean": "따뜻한",
+          "japanese": "あったかい"
         },
         {
-          "korean": "손에 쥐고 걷자",
-          "japanese": "手に持って歩こう"
+          "korean": "고구마",
+          "japanese": "焼き芋"
+        },
+        {
+          "korean": "손에 쥐고",
+          "japanese": "手に持って"
+        },
+        {
+          "korean": "걷자",
+          "japanese": "歩こう"
         }
       ],
       "result": {
@@ -1443,12 +1927,20 @@ window.SCENES_DATA = {
           "japanese": "山道で"
         },
         {
-          "korean": "뱀 보고",
-          "japanese": "ヘビを見て"
+          "korean": "뱀",
+          "japanese": "ヘビを"
         },
         {
-          "korean": "진짜 놀랐잖아",
-          "japanese": "本当にびっくりしたよ"
+          "korean": "보고",
+          "japanese": "見て"
+        },
+        {
+          "korean": "진짜",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "놀랐잖아",
+          "japanese": "びっくりしたよ"
         }
       ],
       "result": {
@@ -1470,12 +1962,20 @@ window.SCENES_DATA = {
       "title": "カンガルー",
       "chunks": [
         {
-          "korean": "캥거루가 뛰는 거 보니까",
-          "japanese": "カンガルーが跳ねるのを見ると"
+          "korean": "캥거루가",
+          "japanese": "カンガルーが"
         },
         {
-          "korean": "진짜 신기해",
-          "japanese": "本当に不思議だね"
+          "korean": "뛰는 거 보니까",
+          "japanese": "跳ねるのを見ると"
+        },
+        {
+          "korean": "진짜",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "신기해",
+          "japanese": "不思議だね"
         }
       ],
       "result": {
@@ -1498,12 +1998,20 @@ window.SCENES_DATA = {
       "title": "エビフライ",
       "chunks": [
         {
-          "korean": "도시락에 새우튀김",
-          "japanese": "お弁当にエビフライが"
+          "korean": "도시락에",
+          "japanese": "お弁当に"
         },
         {
-          "korean": "들어있으면 기분 좋았잖아",
-          "japanese": "入ってると嬉しかったよね"
+          "korean": "새우튀김",
+          "japanese": "エビフライが"
+        },
+        {
+          "korean": "들어있으면",
+          "japanese": "入ってると"
+        },
+        {
+          "korean": "기분 좋았잖아",
+          "japanese": "嬉しかったよね"
         }
       ],
       "result": {
@@ -1530,12 +2038,20 @@ window.SCENES_DATA = {
           "japanese": "おじいちゃん、"
         },
         {
-          "korean": "요즘 허리는",
-          "japanese": "最近腰の調子は"
+          "korean": "요즘",
+          "japanese": "最近"
         },
         {
-          "korean": "좀 괜찮으세요?",
-          "japanese": "少しは楽になりました？"
+          "korean": "허리는",
+          "japanese": "腰の調子は"
+        },
+        {
+          "korean": "좀",
+          "japanese": "少しは"
+        },
+        {
+          "korean": "괜찮으세요?",
+          "japanese": "楽になりました？"
         }
       ],
       "result": {
@@ -1558,8 +2074,16 @@ window.SCENES_DATA = {
       "title": "テント",
       "chunks": [
         {
-          "korean": "텐트 안에서 듣는",
-          "japanese": "テントの中で聞く"
+          "korean": "텐트",
+          "japanese": "テントの"
+        },
+        {
+          "korean": "안에서",
+          "japanese": "中で"
+        },
+        {
+          "korean": "듣는",
+          "japanese": "聞く"
         },
         {
           "korean": "빗소리,",
@@ -1590,16 +2114,28 @@ window.SCENES_DATA = {
       "title": "ドラム",
       "chunks": [
         {
-          "korean": "지하 연습실에서",
-          "japanese": "地下の練習室で"
+          "korean": "지하",
+          "japanese": "地下の"
         },
         {
-          "korean": "드럼 소리가",
-          "japanese": "ドラムの音が"
+          "korean": "연습실에서",
+          "japanese": "練習室で"
         },
         {
-          "korean": "밤늦게까지 울렸어",
-          "japanese": "夜遅くまで響いてたよ"
+          "korean": "드럼",
+          "japanese": "ドラムの"
+        },
+        {
+          "korean": "소리가",
+          "japanese": "音が"
+        },
+        {
+          "korean": "밤늦게까지",
+          "japanese": "夜遅くまで"
+        },
+        {
+          "korean": "울렸어",
+          "japanese": "響いてたよ"
         }
       ],
       "result": {
@@ -1621,12 +2157,24 @@ window.SCENES_DATA = {
       "title": "クッキー",
       "chunks": [
         {
-          "korean": "쿠키 반죽 남았는데",
-          "japanese": "クッキーの生地が余ってるんだけど"
+          "korean": "쿠키",
+          "japanese": "クッキーの"
         },
         {
-          "korean": "같이 구울래?",
-          "japanese": "一緒に焼かない？"
+          "korean": "반죽",
+          "japanese": "生地が"
+        },
+        {
+          "korean": "남았는데",
+          "japanese": "余ってるんだけど"
+        },
+        {
+          "korean": "같이",
+          "japanese": "一緒に"
+        },
+        {
+          "korean": "구울래?",
+          "japanese": "焼かない？"
         }
       ],
       "result": {
@@ -1649,12 +2197,24 @@ window.SCENES_DATA = {
       "title": "犬",
       "chunks": [
         {
-          "korean": "강아지 이름은",
-          "japanese": "この子の名前は"
+          "korean": "강아지",
+          "japanese": "この子の"
         },
         {
-          "korean": "우리가 같이 지어 줄까?",
-          "japanese": "私たちで一緒に決めようか？"
+          "korean": "이름은",
+          "japanese": "名前は"
+        },
+        {
+          "korean": "우리가",
+          "japanese": "私たちで"
+        },
+        {
+          "korean": "같이",
+          "japanese": "一緒に"
+        },
+        {
+          "korean": "지어 줄까?",
+          "japanese": "決めようか？"
         }
       ],
       "result": {
@@ -1681,8 +2241,16 @@ window.SCENES_DATA = {
           "japanese": "花畑に"
         },
         {
-          "korean": "꿀벌 소리 가득하다",
-          "japanese": "ミツバチの羽音でいっぱいだね"
+          "korean": "꿀벌",
+          "japanese": "ミツバチの"
+        },
+        {
+          "korean": "소리",
+          "japanese": "羽音で"
+        },
+        {
+          "korean": "가득하다",
+          "japanese": "いっぱいだね"
         }
       ],
       "result": {
@@ -1708,8 +2276,12 @@ window.SCENES_DATA = {
           "japanese": "風邪には"
         },
         {
-          "korean": "배가 좋다길래",
-          "japanese": "梨がいいって聞いたから"
+          "korean": "배가",
+          "japanese": "梨が"
+        },
+        {
+          "korean": "좋다길래",
+          "japanese": "いいって聞いたから"
         },
         {
           "korean": "깎아 왔어",
@@ -1740,8 +2312,20 @@ window.SCENES_DATA = {
           "japanese": "夏はね、"
         },
         {
-          "korean": "오이 하나 통째로 씹어 먹는 게",
-          "japanese": "きゅうりを一本まるごとかじるのが"
+          "korean": "오이",
+          "japanese": "きゅうりを"
+        },
+        {
+          "korean": "하나",
+          "japanese": "一本"
+        },
+        {
+          "korean": "통째로",
+          "japanese": "まるごと"
+        },
+        {
+          "korean": "씹어 먹는 게",
+          "japanese": "かじるのが"
         },
         {
           "korean": "시원해",
@@ -1767,12 +2351,24 @@ window.SCENES_DATA = {
       "title": "牛",
       "chunks": [
         {
-          "korean": "할아버지 농장에 있던 소,",
-          "japanese": "おじいちゃんの牧場にいた牛、"
+          "korean": "할아버지",
+          "japanese": "おじいちゃんの"
         },
         {
-          "korean": "아직 기억나",
-          "japanese": "まだ覚えてるよ"
+          "korean": "농장에",
+          "japanese": "牧場に"
+        },
+        {
+          "korean": "있던 소,",
+          "japanese": "いた牛、"
+        },
+        {
+          "korean": "아직",
+          "japanese": "まだ"
+        },
+        {
+          "korean": "기억나",
+          "japanese": "覚えてるよ"
         }
       ],
       "result": {
@@ -1799,8 +2395,12 @@ window.SCENES_DATA = {
           "japanese": "秋にはね、"
         },
         {
-          "korean": "이 동네 게가",
-          "japanese": "この町のカニが"
+          "korean": "이 동네",
+          "japanese": "この町の"
+        },
+        {
+          "korean": "게가",
+          "japanese": "カニが"
         },
         {
           "korean": "제철이래",
@@ -1827,8 +2427,16 @@ window.SCENES_DATA = {
       "title": "鳥",
       "chunks": [
         {
-          "korean": "창밖에서 새소리 들으면서",
-          "japanese": "窓の外から鳥の声を聞きながら"
+          "korean": "창밖에서",
+          "japanese": "窓の外から"
+        },
+        {
+          "korean": "새소리",
+          "japanese": "鳥の声を"
+        },
+        {
+          "korean": "들으면서",
+          "japanese": "聞きながら"
         },
         {
           "korean": "일어났어",
@@ -1859,8 +2467,12 @@ window.SCENES_DATA = {
           "japanese": "夏の夜は"
         },
         {
-          "korean": "역시 수박이",
-          "japanese": "やっぱりスイカが"
+          "korean": "역시",
+          "japanese": "やっぱり"
+        },
+        {
+          "korean": "수박이",
+          "japanese": "スイカが"
         },
         {
           "korean": "최고야",
@@ -1887,12 +2499,24 @@ window.SCENES_DATA = {
       "title": "クリスマスツリー",
       "chunks": [
         {
-          "korean": "작년에 산 트리,",
-          "japanese": "去年買ったツリー、"
+          "korean": "작년에 산",
+          "japanese": "去年買った"
         },
         {
-          "korean": "올해도 꺼내서 꾸미자",
-          "japanese": "今年も出して飾ろうよ"
+          "korean": "트리,",
+          "japanese": "ツリー、"
+        },
+        {
+          "korean": "올해도",
+          "japanese": "今年も"
+        },
+        {
+          "korean": "꺼내서",
+          "japanese": "出して"
+        },
+        {
+          "korean": "꾸미자",
+          "japanese": "飾ろうよ"
         }
       ],
       "result": {
@@ -1915,12 +2539,20 @@ window.SCENES_DATA = {
       "title": "お城",
       "chunks": [
         {
-          "korean": "노을 질 때",
-          "japanese": "夕焼けの時間に"
+          "korean": "노을",
+          "japanese": "夕焼けの"
         },
         {
-          "korean": "저 성 보러 가자",
-          "japanese": "あのお城を見に行こうよ"
+          "korean": "질 때",
+          "japanese": "時間に"
+        },
+        {
+          "korean": "저 성",
+          "japanese": "あのお城を"
+        },
+        {
+          "korean": "보러 가자",
+          "japanese": "見に行こうよ"
         }
       ],
       "result": {
@@ -1943,12 +2575,24 @@ window.SCENES_DATA = {
       "title": "薬",
       "chunks": [
         {
-          "korean": "감기약 먹었으면",
-          "japanese": "風邪薬を飲んだなら"
+          "korean": "감기약",
+          "japanese": "風邪薬を"
         },
         {
-          "korean": "이제 좀 누워 있어",
-          "japanese": "もう横になっておいて"
+          "korean": "먹었으면",
+          "japanese": "飲んだなら"
+        },
+        {
+          "korean": "이제",
+          "japanese": "もう"
+        },
+        {
+          "korean": "좀",
+          "japanese": "少し"
+        },
+        {
+          "korean": "누워 있어",
+          "japanese": "横になっておいて"
         }
       ],
       "result": {
@@ -1971,12 +2615,20 @@ window.SCENES_DATA = {
       "title": "ロープウェイ",
       "chunks": [
         {
-          "korean": "케이블카에서 내려다보니까",
-          "japanese": "ロープウェイから見下ろすと"
+          "korean": "케이블카에서",
+          "japanese": "ロープウェイから"
         },
         {
-          "korean": "다리가 후들거려",
-          "japanese": "足がすくむよ"
+          "korean": "내려다보니까",
+          "japanese": "見下ろすと"
+        },
+        {
+          "korean": "다리가",
+          "japanese": "足が"
+        },
+        {
+          "korean": "후들거려",
+          "japanese": "すくむよ"
         }
       ],
       "result": {
@@ -2002,8 +2654,12 @@ window.SCENES_DATA = {
           "japanese": "海辺で"
         },
         {
-          "korean": "새우 구워 먹던 밤,",
-          "japanese": "エビを焼いて食べた夜、"
+          "korean": "새우",
+          "japanese": "エビを"
+        },
+        {
+          "korean": "구워 먹던 밤,",
+          "japanese": "焼いて食べた夜、"
         },
         {
           "korean": "기억나?",
@@ -2029,12 +2685,20 @@ window.SCENES_DATA = {
       "title": "にんじん",
       "chunks": [
         {
-          "korean": "당근 남기면",
-          "japanese": "にんじんを残したら"
+          "korean": "당근",
+          "japanese": "にんじんを"
         },
         {
-          "korean": "디저트 없어",
-          "japanese": "デザートはなしだよ"
+          "korean": "남기면",
+          "japanese": "残したら"
+        },
+        {
+          "korean": "디저트",
+          "japanese": "デザートは"
+        },
+        {
+          "korean": "없어",
+          "japanese": "なしだよ"
         }
       ],
       "result": {
@@ -2056,12 +2720,24 @@ window.SCENES_DATA = {
       "title": "チューリップ",
       "chunks": [
         {
-          "korean": "봄이라 그런지",
-          "japanese": "春だからかな"
+          "korean": "봄이라",
+          "japanese": "春だから"
         },
         {
-          "korean": "튤립이 예쁘게 폈네",
-          "japanese": "チューリップがきれいに咲いてるね"
+          "korean": "그런지",
+          "japanese": "かな"
+        },
+        {
+          "korean": "튤립이",
+          "japanese": "チューリップが"
+        },
+        {
+          "korean": "예쁘게",
+          "japanese": "きれいに"
+        },
+        {
+          "korean": "폈네",
+          "japanese": "咲いてるね"
         }
       ],
       "result": {
@@ -2084,12 +2760,20 @@ window.SCENES_DATA = {
       "title": "ギター",
       "chunks": [
         {
-          "korean": "너한테 들려주려고",
-          "japanese": "君に聴かせようと"
+          "korean": "너한테",
+          "japanese": "君に"
         },
         {
-          "korean": "기타 몇 달째",
-          "japanese": "ギターを何ヶ月も"
+          "korean": "들려주려고",
+          "japanese": "聴かせようと"
+        },
+        {
+          "korean": "기타",
+          "japanese": "ギターを"
+        },
+        {
+          "korean": "몇 달째",
+          "japanese": "何ヶ月も"
         },
         {
           "korean": "연습 중이야",
@@ -2116,12 +2800,24 @@ window.SCENES_DATA = {
       "title": "フクロウ",
       "chunks": [
         {
-          "korean": "밤새 공부하는 나를",
-          "japanese": "夜通し勉強する私を"
+          "korean": "밤새",
+          "japanese": "夜通し"
         },
         {
-          "korean": "부엉이가 지켜보는 것 같아",
-          "japanese": "フクロウが見守ってる気がするよ"
+          "korean": "공부하는",
+          "japanese": "勉強する"
+        },
+        {
+          "korean": "나를",
+          "japanese": "私を"
+        },
+        {
+          "korean": "부엉이가",
+          "japanese": "フクロウが"
+        },
+        {
+          "korean": "지켜보는 것 같아",
+          "japanese": "見守ってる気がするよ"
         }
       ],
       "result": {
@@ -2148,8 +2844,16 @@ window.SCENES_DATA = {
           "japanese": "この路地に"
         },
         {
-          "korean": "타코 맛집 생겼대",
-          "japanese": "タコスの名店ができたって"
+          "korean": "타코",
+          "japanese": "タコスの"
+        },
+        {
+          "korean": "맛집",
+          "japanese": "名店が"
+        },
+        {
+          "korean": "생겼대",
+          "japanese": "できたって"
         },
         {
           "korean": "가 볼래?",
@@ -2180,8 +2884,12 @@ window.SCENES_DATA = {
           "japanese": "いちご畑で"
         },
         {
-          "korean": "제일 빨간 것만",
-          "japanese": "一番赤いのだけ"
+          "korean": "제일",
+          "japanese": "一番"
+        },
+        {
+          "korean": "빨간 것만",
+          "japanese": "赤いのだけ"
         },
         {
           "korean": "골랐어",
@@ -2212,8 +2920,16 @@ window.SCENES_DATA = {
           "japanese": "あの男の子と、"
         },
         {
-          "korean": "몇 년 만에 다시 만났는지 몰라",
-          "japanese": "何年ぶりに再会したことか"
+          "korean": "몇 년 만에",
+          "japanese": "何年ぶりに"
+        },
+        {
+          "korean": "다시 만났는지",
+          "japanese": "再会したことか"
+        },
+        {
+          "korean": "몰라",
+          "japanese": "わからないほどだ"
         }
       ],
       "result": {
@@ -2236,12 +2952,20 @@ window.SCENES_DATA = {
       "title": "ソフトクリーム",
       "chunks": [
         {
-          "korean": "다 녹기 전에",
-          "japanese": "溶けきる前に"
+          "korean": "다",
+          "japanese": "全部"
         },
         {
-          "korean": "얼른 핥아 먹어",
-          "japanese": "早く舐めて食べて"
+          "korean": "녹기 전에",
+          "japanese": "溶ける前に"
+        },
+        {
+          "korean": "얼른",
+          "japanese": "早く"
+        },
+        {
+          "korean": "핥아 먹어",
+          "japanese": "舐めて食べて"
         }
       ],
       "result": {
@@ -2264,12 +2988,24 @@ window.SCENES_DATA = {
       "title": "サンダル",
       "chunks": [
         {
-          "korean": "샌들 신으니까",
-          "japanese": "サンダルを履くと"
+          "korean": "샌들",
+          "japanese": "サンダルを"
         },
         {
-          "korean": "진짜 여름이 왔구나 싶어",
-          "japanese": "本当に夏が来たなって思うよ"
+          "korean": "신으니까",
+          "japanese": "履くと"
+        },
+        {
+          "korean": "진짜",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "여름이",
+          "japanese": "夏が"
+        },
+        {
+          "korean": "왔구나 싶어",
+          "japanese": "来たなって思うよ"
         }
       ],
       "result": {
@@ -2291,8 +3027,16 @@ window.SCENES_DATA = {
       "title": "波",
       "chunks": [
         {
-          "korean": "파도 소리 들으면서",
-          "japanese": "波の音を聞きながら"
+          "korean": "파도",
+          "japanese": "波の"
+        },
+        {
+          "korean": "소리",
+          "japanese": "音を"
+        },
+        {
+          "korean": "들으면서",
+          "japanese": "聞きながら"
         },
         {
           "korean": "좀 걷자",
@@ -2322,12 +3066,20 @@ window.SCENES_DATA = {
           "japanese": "この車で"
         },
         {
-          "korean": "첫 드라이브 어디로 갈까?",
-          "japanese": "初ドライブ、どこに行こうか？"
+          "korean": "첫 드라이브,",
+          "japanese": "初ドライブ、"
+        },
+        {
+          "korean": "어디로",
+          "japanese": "どこに"
+        },
+        {
+          "korean": "갈까?",
+          "japanese": "行こうか？"
         }
       ],
       "result": {
-        "full_korean": "이 차로 첫 드라이브 어디로 갈까?",
+        "full_korean": "이 차로 첫 드라이브, 어디로 갈까?",
         "full_japanese": "この車で、初ドライブどこに行こうか？",
         "visuals": {
           "icons": [
@@ -2345,12 +3097,20 @@ window.SCENES_DATA = {
       "title": "タクシー",
       "chunks": [
         {
-          "korean": "택시 잡아 줄 테니까",
-          "japanese": "タクシー捕まえてあげるから"
+          "korean": "택시",
+          "japanese": "タクシー"
         },
         {
-          "korean": "조심히 들어가",
-          "japanese": "気をつけて帰ってね"
+          "korean": "잡아 줄 테니까",
+          "japanese": "捕まえてあげるから"
+        },
+        {
+          "korean": "조심히",
+          "japanese": "気をつけて"
+        },
+        {
+          "korean": "들어가",
+          "japanese": "帰ってね"
         }
       ],
       "result": {
@@ -2373,12 +3133,28 @@ window.SCENES_DATA = {
       "title": "テニス",
       "chunks": [
         {
-          "korean": "아침 일찍 테니스 치니까",
-          "japanese": "朝早くテニスをすると"
+          "korean": "아침",
+          "japanese": "朝"
         },
         {
-          "korean": "하루가 개운해",
-          "japanese": "一日がすっきりするよ"
+          "korean": "일찍",
+          "japanese": "早く"
+        },
+        {
+          "korean": "테니스",
+          "japanese": "テニスを"
+        },
+        {
+          "korean": "치니까",
+          "japanese": "すると"
+        },
+        {
+          "korean": "하루가",
+          "japanese": "一日が"
+        },
+        {
+          "korean": "개운해",
+          "japanese": "すっきりするよ"
         }
       ],
       "result": {
@@ -2401,12 +3177,24 @@ window.SCENES_DATA = {
       "title": "ラクダ",
       "chunks": [
         {
-          "korean": "사막 여행에서",
-          "japanese": "砂漠旅行で"
+          "korean": "사막",
+          "japanese": "砂漠"
         },
         {
-          "korean": "낙타 탔던 거 기억나?",
-          "japanese": "ラクダに乗ったの覚えてる？"
+          "korean": "여행에서",
+          "japanese": "旅行で"
+        },
+        {
+          "korean": "낙타",
+          "japanese": "ラクダに"
+        },
+        {
+          "korean": "탔던 거",
+          "japanese": "乗ったの"
+        },
+        {
+          "korean": "기억나?",
+          "japanese": "覚えてる？"
         }
       ],
       "result": {
@@ -2429,12 +3217,20 @@ window.SCENES_DATA = {
       "title": "炎",
       "chunks": [
         {
-          "korean": "여름밤 하늘에",
-          "japanese": "夏の夜空に"
+          "korean": "여름밤",
+          "japanese": "夏の"
         },
         {
-          "korean": "불꽃이 터졌어",
-          "japanese": "花火が上がったよ"
+          "korean": "하늘에",
+          "japanese": "夜空に"
+        },
+        {
+          "korean": "불꽃이",
+          "japanese": "花火が"
+        },
+        {
+          "korean": "터졌어",
+          "japanese": "上がったよ"
         }
       ],
       "result": {
@@ -2457,8 +3253,12 @@ window.SCENES_DATA = {
       "title": "ブロッコリー",
       "chunks": [
         {
-          "korean": "브로콜리도 먹어야",
-          "japanese": "ブロッコリーも食べてこそ"
+          "korean": "브로콜리도",
+          "japanese": "ブロッコリーも"
+        },
+        {
+          "korean": "먹어야",
+          "japanese": "食べてこそ"
         },
         {
           "korean": "튼튼해지지",
@@ -2485,12 +3285,24 @@ window.SCENES_DATA = {
       "title": "ネズミ",
       "chunks": [
         {
-          "korean": "부엌에 생쥐 나타나서",
-          "japanese": "台所にネズミが出て"
+          "korean": "부엌에",
+          "japanese": "台所に"
         },
         {
-          "korean": "다들 난리였어",
-          "japanese": "みんな大騒ぎだったよ"
+          "korean": "생쥐",
+          "japanese": "ネズミが"
+        },
+        {
+          "korean": "나타나서",
+          "japanese": "出て"
+        },
+        {
+          "korean": "다들",
+          "japanese": "みんな"
+        },
+        {
+          "korean": "난리였어",
+          "japanese": "大騒ぎだったよ"
         }
       ],
       "result": {
@@ -2513,12 +3325,28 @@ window.SCENES_DATA = {
       "title": "山",
       "chunks": [
         {
-          "korean": "산 정상에 오르니까",
-          "japanese": "山の頂上に登ったら"
+          "korean": "산",
+          "japanese": "山の"
         },
         {
-          "korean": "숨이 턱까지 차올랐어",
-          "japanese": "息が上がって苦しかったよ"
+          "korean": "정상에",
+          "japanese": "頂上に"
+        },
+        {
+          "korean": "오르니까",
+          "japanese": "登ったら"
+        },
+        {
+          "korean": "숨이",
+          "japanese": "息が"
+        },
+        {
+          "korean": "턱까지",
+          "japanese": "のどもとまで"
+        },
+        {
+          "korean": "차올랐어",
+          "japanese": "上がってきたよ"
         }
       ],
       "result": {
@@ -2540,12 +3368,20 @@ window.SCENES_DATA = {
       "title": "ぶどう",
       "chunks": [
         {
-          "korean": "포도 씻어 놨으니까",
-          "japanese": "ぶどう、洗っておいたから"
+          "korean": "포도",
+          "japanese": "ぶどう、"
         },
         {
-          "korean": "이리 와서 먹어",
-          "japanese": "こっち来て食べて"
+          "korean": "씻어 놨으니까",
+          "japanese": "洗っておいたから"
+        },
+        {
+          "korean": "이리 와서",
+          "japanese": "こっち来て"
+        },
+        {
+          "korean": "먹어",
+          "japanese": "食べて"
         }
       ],
       "result": {
@@ -2568,12 +3404,20 @@ window.SCENES_DATA = {
       "title": "卵",
       "chunks": [
         {
-          "korean": "달걀 프라이 하나로",
-          "japanese": "目玉焼き一個で"
+          "korean": "달걀 프라이",
+          "japanese": "目玉焼き"
         },
         {
-          "korean": "아침을 때웠어",
-          "japanese": "朝ごはんを済ませたよ"
+          "korean": "하나로",
+          "japanese": "一個で"
+        },
+        {
+          "korean": "아침을",
+          "japanese": "朝ごはんを"
+        },
+        {
+          "korean": "때웠어",
+          "japanese": "済ませたよ"
         }
       ],
       "result": {
@@ -2600,8 +3444,16 @@ window.SCENES_DATA = {
           "japanese": "体育館で"
         },
         {
-          "korean": "농구공 튀는 소리",
-          "japanese": "バスケボールが弾む音"
+          "korean": "농구공",
+          "japanese": "バスケボールが"
+        },
+        {
+          "korean": "튀는",
+          "japanese": "弾む"
+        },
+        {
+          "korean": "소리,",
+          "japanese": "音、"
         },
         {
           "korean": "오랜만이다",
@@ -2609,7 +3461,7 @@ window.SCENES_DATA = {
         }
       ],
       "result": {
-        "full_korean": "체육관에서 농구공 튀는 소리 오랜만이다",
+        "full_korean": "체육관에서 농구공 튀는 소리, 오랜만이다",
         "full_japanese": "体育館で、バスケボールが弾む音、久しぶりだね。",
         "visuals": {
           "icons": [
@@ -2631,8 +3483,16 @@ window.SCENES_DATA = {
           "japanese": "明け方に"
         },
         {
-          "korean": "햄스터 쳇바퀴 소리에",
-          "japanese": "ハムスターの回し車の音で"
+          "korean": "햄스터",
+          "japanese": "ハムスターの"
+        },
+        {
+          "korean": "쳇바퀴",
+          "japanese": "回し車の"
+        },
+        {
+          "korean": "소리에",
+          "japanese": "音で"
         },
         {
           "korean": "깼어",
@@ -2659,12 +3519,24 @@ window.SCENES_DATA = {
       "title": "バイク",
       "chunks": [
         {
-          "korean": "밤에 오토바이 타면",
-          "japanese": "夜にバイクに乗ると"
+          "korean": "밤에",
+          "japanese": "夜に"
         },
         {
-          "korean": "바람이 시원해",
-          "japanese": "風が気持ちいいんだ"
+          "korean": "오토바이",
+          "japanese": "バイクに"
+        },
+        {
+          "korean": "타면",
+          "japanese": "乗ると"
+        },
+        {
+          "korean": "바람이",
+          "japanese": "風が"
+        },
+        {
+          "korean": "시원해",
+          "japanese": "気持ちいいんだ"
         }
       ],
       "result": {
@@ -2691,8 +3563,12 @@ window.SCENES_DATA = {
           "japanese": "寒い日は"
         },
         {
-          "korean": "라면 끓여 먹는 게",
-          "japanese": "ラーメンを作って食べるのが"
+          "korean": "라면",
+          "japanese": "ラーメンを"
+        },
+        {
+          "korean": "끓여 먹는 게",
+          "japanese": "作って食べるのが"
         },
         {
           "korean": "최고야",
@@ -2718,12 +3594,28 @@ window.SCENES_DATA = {
       "title": "船",
       "chunks": [
         {
-          "korean": "배 갑판 위에서",
-          "japanese": "船の甲板の上で"
+          "korean": "배",
+          "japanese": "船の"
         },
         {
-          "korean": "바닷바람 맞으니까 좋다",
-          "japanese": "潮風を浴びるのが気持ちいいね"
+          "korean": "갑판",
+          "japanese": "甲板の"
+        },
+        {
+          "korean": "위에서",
+          "japanese": "上で"
+        },
+        {
+          "korean": "바닷바람",
+          "japanese": "潮風を"
+        },
+        {
+          "korean": "맞으니까",
+          "japanese": "浴びるのが"
+        },
+        {
+          "korean": "좋다",
+          "japanese": "気持ちいいね"
         }
       ],
       "result": {
@@ -2746,8 +3638,16 @@ window.SCENES_DATA = {
       "title": "とうもろこし",
       "chunks": [
         {
-          "korean": "찐 옥수수 냄새 나니까",
-          "japanese": "蒸したとうもろこしの匂いがして"
+          "korean": "찐 옥수수",
+          "japanese": "蒸したとうもろこしの"
+        },
+        {
+          "korean": "냄새",
+          "japanese": "匂いが"
+        },
+        {
+          "korean": "나니까",
+          "japanese": "して"
         },
         {
           "korean": "배고파진다",
@@ -2774,12 +3674,20 @@ window.SCENES_DATA = {
       "title": "ひよこ",
       "chunks": [
         {
-          "korean": "병아리가 알에서",
-          "japanese": "ひよこが卵から"
+          "korean": "병아리가",
+          "japanese": "ひよこが"
         },
         {
-          "korean": "막 나왔어, 봐",
-          "japanese": "出てきたばかりだよ、見て"
+          "korean": "알에서",
+          "japanese": "卵から"
+        },
+        {
+          "korean": "막 나왔어,",
+          "japanese": "出てきたばかりだよ、"
+        },
+        {
+          "korean": "봐",
+          "japanese": "見て"
         }
       ],
       "result": {
@@ -2802,12 +3710,24 @@ window.SCENES_DATA = {
       "title": "みかん",
       "chunks": [
         {
-          "korean": "겨울엔 이불 속에서",
-          "japanese": "冬は布団の中で"
+          "korean": "겨울엔",
+          "japanese": "冬は"
         },
         {
-          "korean": "귤 까먹는 게 낙이야",
-          "japanese": "みかんを剥くのが楽しみなんだ"
+          "korean": "이불 속에서",
+          "japanese": "布団の中で"
+        },
+        {
+          "korean": "귤",
+          "japanese": "みかんを"
+        },
+        {
+          "korean": "까먹는 게",
+          "japanese": "剥くのが"
+        },
+        {
+          "korean": "낙이야",
+          "japanese": "楽しみなんだ"
         }
       ],
       "result": {
@@ -2830,12 +3750,28 @@ window.SCENES_DATA = {
       "title": "ワンピース",
       "chunks": [
         {
-          "korean": "오늘 입을 원피스",
-          "japanese": "今日着るワンピースを"
+          "korean": "오늘",
+          "japanese": "今日"
         },
         {
-          "korean": "고르는 데 한 시간 걸렸어",
-          "japanese": "選ぶのに1時間かかったよ"
+          "korean": "입을",
+          "japanese": "着る"
+        },
+        {
+          "korean": "원피스",
+          "japanese": "ワンピースを"
+        },
+        {
+          "korean": "고르는 데",
+          "japanese": "選ぶのに"
+        },
+        {
+          "korean": "한 시간",
+          "japanese": "1時間"
+        },
+        {
+          "korean": "걸렸어",
+          "japanese": "かかったよ"
         }
       ],
       "result": {
@@ -2857,12 +3793,24 @@ window.SCENES_DATA = {
       "title": "リュック",
       "chunks": [
         {
-          "korean": "새 책가방 메고",
-          "japanese": "新しいリュックを背負って"
+          "korean": "새 책가방",
+          "japanese": "新しいリュックを"
         },
         {
-          "korean": "학교 가는 첫날이야",
-          "japanese": "学校に行く初日だよ"
+          "korean": "메고",
+          "japanese": "背負って"
+        },
+        {
+          "korean": "학교",
+          "japanese": "学校に"
+        },
+        {
+          "korean": "가는",
+          "japanese": "行く"
+        },
+        {
+          "korean": "첫날이야",
+          "japanese": "初日だよ"
         }
       ],
       "result": {
@@ -2885,12 +3833,20 @@ window.SCENES_DATA = {
       "title": "チキン",
       "chunks": [
         {
-          "korean": "오늘 같은 날엔",
-          "japanese": "こういう日はね"
+          "korean": "오늘 같은",
+          "japanese": "こういう"
         },
         {
-          "korean": "치킨에 맥주가",
-          "japanese": "チキンとビールが"
+          "korean": "날엔",
+          "japanese": "日はね"
+        },
+        {
+          "korean": "치킨에",
+          "japanese": "チキンと"
+        },
+        {
+          "korean": "맥주가",
+          "japanese": "ビールが"
         },
         {
           "korean": "딱이지",
@@ -2917,12 +3873,20 @@ window.SCENES_DATA = {
       "title": "電車",
       "chunks": [
         {
-          "korean": "기차 떠나기 전까지",
-          "japanese": "電車が出発するまで"
+          "korean": "기차",
+          "japanese": "電車が"
         },
         {
-          "korean": "손 놓지 말자",
-          "japanese": "手を離さないでいよう"
+          "korean": "떠나기 전까지",
+          "japanese": "出発するまで"
+        },
+        {
+          "korean": "손",
+          "japanese": "手を"
+        },
+        {
+          "korean": "놓지 말자",
+          "japanese": "離さないでいよう"
         }
       ],
       "result": {
@@ -2944,12 +3908,20 @@ window.SCENES_DATA = {
       "title": "傘",
       "chunks": [
         {
-          "korean": "우산 안 챙겼지,",
-          "japanese": "傘持ってきてないでしょ、"
+          "korean": "우산",
+          "japanese": "傘、"
         },
         {
-          "korean": "이리 들어와",
-          "japanese": "こっちに入って"
+          "korean": "안 챙겼지,",
+          "japanese": "持ってきてないでしょ、"
+        },
+        {
+          "korean": "이리",
+          "japanese": "こっちに"
+        },
+        {
+          "korean": "들어와",
+          "japanese": "入って"
         }
       ],
       "result": {
@@ -2972,12 +3944,24 @@ window.SCENES_DATA = {
       "title": "虹",
       "chunks": [
         {
-          "korean": "비 그치고 나니까",
-          "japanese": "雨が止んだら"
+          "korean": "비",
+          "japanese": "雨が"
         },
         {
-          "korean": "무지개가 떴어",
-          "japanese": "虹が出たよ"
+          "korean": "그치고",
+          "japanese": "止んで"
+        },
+        {
+          "korean": "나니까",
+          "japanese": "みたら"
+        },
+        {
+          "korean": "무지개가",
+          "japanese": "虹が"
+        },
+        {
+          "korean": "떴어",
+          "japanese": "出たよ"
         }
       ],
       "result": {
@@ -3004,12 +3988,20 @@ window.SCENES_DATA = {
           "japanese": "雨が降ってるけど"
         },
         {
-          "korean": "버스 정류장에서",
-          "japanese": "バス停で"
+          "korean": "버스",
+          "japanese": "バス"
         },
         {
-          "korean": "같이 기다려 줄까?",
-          "japanese": "一緒に待ってようか？"
+          "korean": "정류장에서",
+          "japanese": "停で"
+        },
+        {
+          "korean": "같이",
+          "japanese": "一緒に"
+        },
+        {
+          "korean": "기다려 줄까?",
+          "japanese": "待ってようか？"
         }
       ],
       "result": {
@@ -3032,12 +4024,24 @@ window.SCENES_DATA = {
       "title": "骨",
       "chunks": [
         {
-          "korean": "강아지한테 뼈다귀 던져 주면",
-          "japanese": "犬に骨を投げてあげると"
+          "korean": "강아지한테",
+          "japanese": "犬に"
         },
         {
-          "korean": "좋아서 난리야",
-          "japanese": "大喜びで大騒ぎするんだ"
+          "korean": "뼈다귀",
+          "japanese": "骨を"
+        },
+        {
+          "korean": "던져 주면",
+          "japanese": "投げてあげると"
+        },
+        {
+          "korean": "좋아서",
+          "japanese": "大喜びで"
+        },
+        {
+          "korean": "난리야",
+          "japanese": "大騒ぎするんだ"
         }
       ],
       "result": {
@@ -3060,12 +4064,20 @@ window.SCENES_DATA = {
       "title": "チーズ",
       "chunks": [
         {
-          "korean": "치즈 늘어나는 거 보면서",
-          "japanese": "チーズが伸びるのを見ながら"
+          "korean": "치즈",
+          "japanese": "チーズが"
         },
         {
-          "korean": "사진부터 찍었어",
-          "japanese": "まず写真を撮ったよ"
+          "korean": "늘어나는 거 보면서",
+          "japanese": "伸びるのを見ながら"
+        },
+        {
+          "korean": "사진부터",
+          "japanese": "まず写真を"
+        },
+        {
+          "korean": "찍었어",
+          "japanese": "撮ったよ"
         }
       ],
       "result": {
@@ -3088,12 +4100,20 @@ window.SCENES_DATA = {
       "title": "カレー",
       "chunks": [
         {
-          "korean": "집 안에",
-          "japanese": "家の中に"
+          "korean": "집",
+          "japanese": "家の"
         },
         {
-          "korean": "카레 냄새",
-          "japanese": "カレーの匂いが"
+          "korean": "안에",
+          "japanese": "中に"
+        },
+        {
+          "korean": "카레",
+          "japanese": "カレーの"
+        },
+        {
+          "korean": "냄새",
+          "japanese": "匂いが"
         },
         {
           "korean": "가득하다",
@@ -3124,8 +4144,16 @@ window.SCENES_DATA = {
           "japanese": "家族みんなが"
         },
         {
-          "korean": "텔레비전 앞에 모였어",
-          "japanese": "テレビの前に集まったよ"
+          "korean": "텔레비전",
+          "japanese": "テレビの"
+        },
+        {
+          "korean": "앞에",
+          "japanese": "前に"
+        },
+        {
+          "korean": "모였어",
+          "japanese": "集まったよ"
         }
       ],
       "result": {
@@ -3148,12 +4176,24 @@ window.SCENES_DATA = {
       "title": "モノレール",
       "chunks": [
         {
-          "korean": "모노레일 타면",
-          "japanese": "モノレールに乗ると"
+          "korean": "모노레일",
+          "japanese": "モノレールに"
         },
         {
-          "korean": "놀이공원이 한눈에 보여",
-          "japanese": "遊園地が一望できるよ"
+          "korean": "타면",
+          "japanese": "乗ると"
+        },
+        {
+          "korean": "놀이공원이",
+          "japanese": "遊園地が"
+        },
+        {
+          "korean": "한눈에",
+          "japanese": "一望"
+        },
+        {
+          "korean": "보여",
+          "japanese": "できるよ"
         }
       ],
       "result": {
@@ -3176,12 +4216,24 @@ window.SCENES_DATA = {
       "title": "バレーボール",
       "chunks": [
         {
-          "korean": "여름 바닷가에서",
-          "japanese": "夏の海辺で"
+          "korean": "여름",
+          "japanese": "夏の"
         },
         {
-          "korean": "배구 한 게임 어때?",
-          "japanese": "バレーボール一勝負どう？"
+          "korean": "바닷가에서",
+          "japanese": "海辺で"
+        },
+        {
+          "korean": "배구",
+          "japanese": "バレーボール"
+        },
+        {
+          "korean": "한 게임",
+          "japanese": "一勝負"
+        },
+        {
+          "korean": "어때?",
+          "japanese": "どう？"
         }
       ],
       "result": {
@@ -3204,12 +4256,24 @@ window.SCENES_DATA = {
       "title": "雪だるま",
       "chunks": [
         {
-          "korean": "눈사람이 다 녹기 전에",
-          "japanese": "雪だるまが溶けきる前に"
+          "korean": "눈사람이",
+          "japanese": "雪だるまが"
         },
         {
-          "korean": "사진 찍어 두자",
-          "japanese": "写真に残しておこう"
+          "korean": "다",
+          "japanese": "全部"
+        },
+        {
+          "korean": "녹기 전에",
+          "japanese": "溶ける前に"
+        },
+        {
+          "korean": "사진",
+          "japanese": "写真に"
+        },
+        {
+          "korean": "찍어 두자",
+          "japanese": "残しておこう"
         }
       ],
       "result": {
@@ -3231,12 +4295,20 @@ window.SCENES_DATA = {
       "title": "せんべい",
       "chunks": [
         {
-          "korean": "할머니가 주신 센베이",
-          "japanese": "おばあちゃんがくれたせんべい"
+          "korean": "할머니가 주신",
+          "japanese": "おばあちゃんがくれた"
         },
         {
-          "korean": "차랑 같이 먹자",
-          "japanese": "お茶と一緒に食べよう"
+          "korean": "센베이",
+          "japanese": "せんべい"
+        },
+        {
+          "korean": "차랑 같이",
+          "japanese": "お茶と一緒に"
+        },
+        {
+          "korean": "먹자",
+          "japanese": "食べよう"
         }
       ],
       "result": {
@@ -3263,8 +4335,16 @@ window.SCENES_DATA = {
           "japanese": "森の道で"
         },
         {
-          "korean": "사슴이랑 눈이 마주쳤어",
-          "japanese": "シカと目が合ったんだ"
+          "korean": "사슴이랑",
+          "japanese": "シカと"
+        },
+        {
+          "korean": "눈이",
+          "japanese": "目が"
+        },
+        {
+          "korean": "마주쳤어",
+          "japanese": "合ったんだ"
         }
       ],
       "result": {
@@ -3291,8 +4371,12 @@ window.SCENES_DATA = {
           "japanese": "寝不足がバレそうだから"
         },
         {
-          "korean": "선글라스 쓰고 나갈래",
-          "japanese": "サングラスかけて出かけるよ"
+          "korean": "선글라스",
+          "japanese": "サングラス"
+        },
+        {
+          "korean": "쓰고 나갈래",
+          "japanese": "かけて出かけるよ"
         }
       ],
       "result": {
@@ -3315,12 +4399,28 @@ window.SCENES_DATA = {
       "title": "ブタ",
       "chunks": [
         {
-          "korean": "어젯밤 꿈에 돼지 나오면",
-          "japanese": "昨夜の夢にブタが出たら"
+          "korean": "어젯밤",
+          "japanese": "昨夜の"
         },
         {
-          "korean": "좋은 일 생긴대",
-          "japanese": "いいことが起きるんだって"
+          "korean": "꿈에",
+          "japanese": "夢に"
+        },
+        {
+          "korean": "돼지",
+          "japanese": "ブタが"
+        },
+        {
+          "korean": "나오면",
+          "japanese": "出たら"
+        },
+        {
+          "korean": "좋은 일",
+          "japanese": "いいことが"
+        },
+        {
+          "korean": "생긴대",
+          "japanese": "起きるんだって"
         }
       ],
       "result": {
@@ -3342,12 +4442,20 @@ window.SCENES_DATA = {
       "title": "バッテリー",
       "chunks": [
         {
-          "korean": "배터리 얼마 안 남았는데",
-          "japanese": "バッテリーがあまり残ってないけど"
+          "korean": "배터리",
+          "japanese": "バッテリーが"
         },
         {
-          "korean": "끊지 말고 얘기하자",
-          "japanese": "切らずに話そうよ"
+          "korean": "얼마 안 남았는데",
+          "japanese": "あまり残ってないけど"
+        },
+        {
+          "korean": "끊지 말고",
+          "japanese": "切らずに"
+        },
+        {
+          "korean": "얘기하자",
+          "japanese": "話そうよ"
         }
       ],
       "result": {
@@ -3374,8 +4482,16 @@ window.SCENES_DATA = {
           "japanese": "いつか"
         },
         {
-          "korean": "후지산 일출 보러 가자",
-          "japanese": "富士山の日の出を見に行こうね"
+          "korean": "후지산",
+          "japanese": "富士山の"
+        },
+        {
+          "korean": "일출",
+          "japanese": "日の出を"
+        },
+        {
+          "korean": "보러 가자",
+          "japanese": "見に行こうね"
         }
       ],
       "result": {
@@ -3397,12 +4513,20 @@ window.SCENES_DATA = {
       "title": "キツネ",
       "chunks": [
         {
-          "korean": "너는 은근히",
-          "japanese": "君って意外と"
+          "korean": "너는",
+          "japanese": "君って"
         },
         {
-          "korean": "여우 같은 데가 있어",
-          "japanese": "キツネみたいなところがあるよね"
+          "korean": "은근히",
+          "japanese": "意外と"
+        },
+        {
+          "korean": "여우",
+          "japanese": "キツネ"
+        },
+        {
+          "korean": "같은 데가 있어",
+          "japanese": "みたいなところがあるよね"
         }
       ],
       "result": {
@@ -3424,12 +4548,24 @@ window.SCENES_DATA = {
       "title": "玉ねぎ",
       "chunks": [
         {
-          "korean": "양파 써는데",
-          "japanese": "玉ねぎを切ってると"
+          "korean": "양파",
+          "japanese": "玉ねぎを"
         },
         {
-          "korean": "자꾸 눈물 나",
-          "japanese": "涙が止まらないんだ"
+          "korean": "써는데",
+          "japanese": "切ってると"
+        },
+        {
+          "korean": "자꾸",
+          "japanese": "しきりに"
+        },
+        {
+          "korean": "눈물",
+          "japanese": "涙が"
+        },
+        {
+          "korean": "나",
+          "japanese": "出るんだ"
         }
       ],
       "result": {
@@ -3456,8 +4592,16 @@ window.SCENES_DATA = {
           "japanese": "もう"
         },
         {
-          "korean": "코트 꺼내 입어야 할 날씨네",
-          "japanese": "コートを出して着る季節だね"
+          "korean": "코트",
+          "japanese": "コートを"
+        },
+        {
+          "korean": "꺼내 입어야 할",
+          "japanese": "出して着る"
+        },
+        {
+          "korean": "날씨네",
+          "japanese": "季節だね"
         }
       ],
       "result": {
@@ -3480,12 +4624,24 @@ window.SCENES_DATA = {
       "title": "目",
       "chunks": [
         {
-          "korean": "눈 감고 있어 봐,",
-          "japanese": "目を閉じてて、"
+          "korean": "눈",
+          "japanese": "目を"
         },
         {
-          "korean": "깜짝 선물 있어",
-          "japanese": "サプライズがあるんだ"
+          "korean": "감고 있어 봐,",
+          "japanese": "閉じてて、"
+        },
+        {
+          "korean": "깜짝",
+          "japanese": "サプライズ"
+        },
+        {
+          "korean": "선물",
+          "japanese": "プレゼントが"
+        },
+        {
+          "korean": "있어",
+          "japanese": "あるんだ"
         }
       ],
       "result": {
@@ -3508,12 +4664,20 @@ window.SCENES_DATA = {
       "title": "クジラ",
       "chunks": [
         {
-          "korean": "고래 우는 소리,",
-          "japanese": "クジラの鳴き声、"
+          "korean": "고래",
+          "japanese": "クジラの"
         },
         {
-          "korean": "저 멀리서도 들린대",
-          "japanese": "遠くまで届くんだって"
+          "korean": "우는 소리,",
+          "japanese": "鳴き声、"
+        },
+        {
+          "korean": "저 멀리서도",
+          "japanese": "遠くまで"
+        },
+        {
+          "korean": "들린대",
+          "japanese": "届くんだって"
         }
       ],
       "result": {
@@ -3539,8 +4703,12 @@ window.SCENES_DATA = {
           "japanese": "雨も降ってるし"
         },
         {
-          "korean": "볼링장이나 갈까?",
-          "japanese": "ボウリング場にでも行こうか？"
+          "korean": "볼링장이나",
+          "japanese": "ボウリング場にでも"
+        },
+        {
+          "korean": "갈까?",
+          "japanese": "行こうか？"
         }
       ],
       "result": {
@@ -3563,12 +4731,28 @@ window.SCENES_DATA = {
       "title": "メガネ",
       "chunks": [
         {
-          "korean": "안경 새로 맞췄더니",
-          "japanese": "メガネを新しく作ったら"
+          "korean": "안경",
+          "japanese": "メガネを"
         },
         {
-          "korean": "세상이 다르게 보여",
-          "japanese": "世界が違って見えるよ"
+          "korean": "새로",
+          "japanese": "新しく"
+        },
+        {
+          "korean": "맞췄더니",
+          "japanese": "作ったら"
+        },
+        {
+          "korean": "세상이",
+          "japanese": "世界が"
+        },
+        {
+          "korean": "다르게",
+          "japanese": "違って"
+        },
+        {
+          "korean": "보여",
+          "japanese": "見えるよ"
         }
       ],
       "result": {
@@ -3591,12 +4775,20 @@ window.SCENES_DATA = {
       "title": "ピザ",
       "chunks": [
         {
-          "korean": "비 오는 날엔",
-          "japanese": "雨の日は"
+          "korean": "비",
+          "japanese": "雨が"
         },
         {
-          "korean": "피자에 콜라지",
-          "japanese": "ピザとコーラだよね"
+          "korean": "오는 날엔",
+          "japanese": "降る日は"
+        },
+        {
+          "korean": "피자에",
+          "japanese": "ピザと"
+        },
+        {
+          "korean": "콜라지",
+          "japanese": "コーラだよね"
         }
       ],
       "result": {
@@ -3618,12 +4810,24 @@ window.SCENES_DATA = {
       "title": "ノートパソコン",
       "chunks": [
         {
-          "korean": "노트북 앞에서",
-          "japanese": "パソコンの前で"
+          "korean": "노트북",
+          "japanese": "パソコンの"
         },
         {
-          "korean": "밤새운 게 벌써 며칠째야",
-          "japanese": "徹夜するのがもう何日目だろう"
+          "korean": "앞에서",
+          "japanese": "前で"
+        },
+        {
+          "korean": "밤새운 게",
+          "japanese": "徹夜するのが"
+        },
+        {
+          "korean": "벌써",
+          "japanese": "もう"
+        },
+        {
+          "korean": "며칠째야",
+          "japanese": "何日目だろう"
         }
       ],
       "result": {
@@ -3646,12 +4850,28 @@ window.SCENES_DATA = {
       "title": "ヘルメット",
       "chunks": [
         {
-          "korean": "이거 헬멧,",
-          "japanese": "このヘルメット、"
+          "korean": "이거",
+          "japanese": "これ"
         },
         {
-          "korean": "처음 타는 거니까 꼭 써",
-          "japanese": "初めて乗るんだから必ずかぶって"
+          "korean": "헬멧,",
+          "japanese": "ヘルメット、"
+        },
+        {
+          "korean": "처음",
+          "japanese": "初めて"
+        },
+        {
+          "korean": "타는 거니까",
+          "japanese": "乗るんだから"
+        },
+        {
+          "korean": "꼭",
+          "japanese": "必ず"
+        },
+        {
+          "korean": "써",
+          "japanese": "かぶって"
         }
       ],
       "result": {
@@ -3674,8 +4894,16 @@ window.SCENES_DATA = {
       "title": "消防車",
       "chunks": [
         {
-          "korean": "소방차 몇 대가 지나가던데",
-          "japanese": "消防車が何台も通っていったけど"
+          "korean": "소방차",
+          "japanese": "消防車が"
+        },
+        {
+          "korean": "몇 대가",
+          "japanese": "何台も"
+        },
+        {
+          "korean": "지나가던데",
+          "japanese": "通っていったけど"
         },
         {
           "korean": "무슨 일이지?",
@@ -3701,12 +4929,20 @@ window.SCENES_DATA = {
       "title": "カメ",
       "chunks": [
         {
-          "korean": "거북이처럼 느려도",
-          "japanese": "カメみたいに遅くても"
+          "korean": "거북이처럼",
+          "japanese": "カメみたいに"
         },
         {
-          "korean": "끝까지 가면 되지",
-          "japanese": "最後まで行けばいいんだよ"
+          "korean": "느려도",
+          "japanese": "遅くても"
+        },
+        {
+          "korean": "끝까지",
+          "japanese": "最後まで"
+        },
+        {
+          "korean": "가면 되지",
+          "japanese": "行けばいいんだよ"
         }
       ],
       "result": {
@@ -3728,12 +4964,20 @@ window.SCENES_DATA = {
       "title": "キリン",
       "chunks": [
         {
-          "korean": "기린 목이",
-          "japanese": "キリンの首が"
+          "korean": "기린",
+          "japanese": "キリンの"
         },
         {
-          "korean": "저렇게 긴 줄 몰랐어",
-          "japanese": "あんなに長いとは思わなかったよ"
+          "korean": "목이",
+          "japanese": "首が"
+        },
+        {
+          "korean": "저렇게",
+          "japanese": "あんなに"
+        },
+        {
+          "korean": "긴 줄 몰랐어",
+          "japanese": "長いとは思わなかったよ"
         }
       ],
       "result": {
@@ -3756,16 +5000,28 @@ window.SCENES_DATA = {
       "title": "ワッフル",
       "chunks": [
         {
-          "korean": "이 카페 와플에",
-          "japanese": "このカフェのワッフルに"
+          "korean": "이 카페",
+          "japanese": "このカフェの"
         },
         {
-          "korean": "시럽 뿌려 먹으면",
-          "japanese": "シロップをかけて食べると"
+          "korean": "와플에",
+          "japanese": "ワッフルに"
         },
         {
-          "korean": "진짜 맛있어",
-          "japanese": "本当においしいんだ"
+          "korean": "시럽",
+          "japanese": "シロップを"
+        },
+        {
+          "korean": "뿌려 먹으면",
+          "japanese": "かけて食べると"
+        },
+        {
+          "korean": "진짜",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "맛있어",
+          "japanese": "おいしいんだ"
         }
       ],
       "result": {
@@ -3787,12 +5043,24 @@ window.SCENES_DATA = {
       "title": "氷",
       "chunks": [
         {
-          "korean": "호수가 다 얼어서",
-          "japanese": "湖が全部凍って"
+          "korean": "호수가",
+          "japanese": "湖が"
         },
         {
-          "korean": "걷기가 무서워",
-          "japanese": "歩くのが怖いよ"
+          "korean": "다",
+          "japanese": "全部"
+        },
+        {
+          "korean": "얼어서",
+          "japanese": "凍って"
+        },
+        {
+          "korean": "걷기가",
+          "japanese": "歩くのが"
+        },
+        {
+          "korean": "무서워",
+          "japanese": "怖いよ"
         }
       ],
       "result": {
@@ -3815,12 +5083,24 @@ window.SCENES_DATA = {
       "title": "塩",
       "chunks": [
         {
-          "korean": "염전에서 소금 만드는 거,",
-          "japanese": "塩田で塩を作るのって、"
+          "korean": "염전에서",
+          "japanese": "塩田で"
         },
         {
-          "korean": "되게 힘든 일이더라",
-          "japanese": "本当に大変な仕事だったよ"
+          "korean": "소금",
+          "japanese": "塩を"
+        },
+        {
+          "korean": "만드는 거,",
+          "japanese": "作るのって、"
+        },
+        {
+          "korean": "되게",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "힘든 일이더라",
+          "japanese": "大変な仕事だったよ"
         }
       ],
       "result": {
@@ -3846,8 +5126,16 @@ window.SCENES_DATA = {
           "japanese": "桃みたいに"
         },
         {
-          "korean": "말랑말랑한 계절이 왔네",
-          "japanese": "やわらかい季節が来たね"
+          "korean": "말랑말랑한",
+          "japanese": "やわらかい"
+        },
+        {
+          "korean": "계절이",
+          "japanese": "季節が"
+        },
+        {
+          "korean": "왔네",
+          "japanese": "来たね"
         }
       ],
       "result": {
@@ -3870,12 +5158,24 @@ window.SCENES_DATA = {
       "title": "ハート",
       "chunks": [
         {
-          "korean": "모래 위에",
-          "japanese": "砂の上に"
+          "korean": "모래",
+          "japanese": "砂の"
         },
         {
-          "korean": "하트 하나 그려 놨어,",
-          "japanese": "ハートをひとつ描いておいたよ、"
+          "korean": "위에",
+          "japanese": "上に"
+        },
+        {
+          "korean": "하트",
+          "japanese": "ハートを"
+        },
+        {
+          "korean": "하나",
+          "japanese": "ひとつ"
+        },
+        {
+          "korean": "그려 놨어,",
+          "japanese": "描いておいたよ、"
         },
         {
           "korean": "봐",
@@ -3910,8 +5210,12 @@ window.SCENES_DATA = {
           "japanese": "ナマケモノみたいに"
         },
         {
-          "korean": "아무것도 안 할래",
-          "japanese": "何もしないでいたいな"
+          "korean": "아무것도",
+          "japanese": "何も"
+        },
+        {
+          "korean": "안 할래",
+          "japanese": "しないでいたいな"
         }
       ],
       "result": {
@@ -3938,8 +5242,16 @@ window.SCENES_DATA = {
           "japanese": "私たち"
         },
         {
-          "korean": "커플 티셔츠 하나",
-          "japanese": "おそろいのTシャツを"
+          "korean": "커플",
+          "japanese": "おそろいの"
+        },
+        {
+          "korean": "티셔츠",
+          "japanese": "Tシャツを"
+        },
+        {
+          "korean": "하나",
+          "japanese": "一つ"
         },
         {
           "korean": "맞출까?",
@@ -3966,12 +5278,20 @@ window.SCENES_DATA = {
       "title": "スニーカー",
       "chunks": [
         {
-          "korean": "같이 걸어 다녔더니",
-          "japanese": "一緒に歩き回ってたら"
+          "korean": "같이",
+          "japanese": "一緒に"
         },
         {
-          "korean": "운동화가 다 닳았네",
-          "japanese": "スニーカーがすり減っちゃったね"
+          "korean": "걸어 다녔더니",
+          "japanese": "歩き回ってたら"
+        },
+        {
+          "korean": "운동화가",
+          "japanese": "スニーカーが"
+        },
+        {
+          "korean": "다 닳았네",
+          "japanese": "すり減っちゃったね"
         }
       ],
       "result": {
@@ -3994,12 +5314,20 @@ window.SCENES_DATA = {
       "title": "新聞",
       "chunks": [
         {
-          "korean": "아빠는 아침마다",
-          "japanese": "お父さんは毎朝"
+          "korean": "아빠는",
+          "japanese": "お父さんは"
         },
         {
-          "korean": "신문부터 펼치셔",
-          "japanese": "まず新聞を広げるんだ"
+          "korean": "아침마다",
+          "japanese": "毎朝"
+        },
+        {
+          "korean": "신문부터",
+          "japanese": "まず新聞を"
+        },
+        {
+          "korean": "펼치셔",
+          "japanese": "広げるんだ"
         }
       ],
       "result": {
@@ -4022,12 +5350,24 @@ window.SCENES_DATA = {
       "title": "太陽",
       "chunks": [
         {
-          "korean": "해 뜨는 거 보러",
-          "japanese": "日の出を見に"
+          "korean": "해",
+          "japanese": "太陽が"
         },
         {
-          "korean": "새벽부터 나왔어",
-          "japanese": "明け方から出てきたんだ"
+          "korean": "뜨는 거",
+          "japanese": "昇るのを"
+        },
+        {
+          "korean": "보러",
+          "japanese": "見に"
+        },
+        {
+          "korean": "새벽부터",
+          "japanese": "明け方から"
+        },
+        {
+          "korean": "나왔어",
+          "japanese": "出てきたんだ"
         }
       ],
       "result": {
@@ -4049,12 +5389,20 @@ window.SCENES_DATA = {
       "title": "ライオン",
       "chunks": [
         {
-          "korean": "사자 울음소리가",
-          "japanese": "ライオンの鳴き声が"
+          "korean": "사자",
+          "japanese": "ライオンの"
         },
         {
-          "korean": "저 멀리까지 울려 퍼졌어",
-          "japanese": "遠くまで響き渡ったよ"
+          "korean": "울음소리가",
+          "japanese": "鳴き声が"
+        },
+        {
+          "korean": "저 멀리까지",
+          "japanese": "遠くまで"
+        },
+        {
+          "korean": "울려 퍼졌어",
+          "japanese": "響き渡ったよ"
         }
       ],
       "result": {
@@ -4081,8 +5429,16 @@ window.SCENES_DATA = {
           "japanese": "このクマのぬいぐるみ、"
         },
         {
-          "korean": "귀 한쪽이 헤졌어도",
-          "japanese": "耳が片方すり減ってても"
+          "korean": "귀",
+          "japanese": "耳が"
+        },
+        {
+          "korean": "한쪽이",
+          "japanese": "片方"
+        },
+        {
+          "korean": "헤졌어도",
+          "japanese": "すり減ってても"
         },
         {
           "korean": "못 버리겠어",
@@ -4113,8 +5469,16 @@ window.SCENES_DATA = {
           "japanese": "毎晩"
         },
         {
-          "korean": "우리 집 앞에 고양이가",
-          "japanese": "うちの前にネコが"
+          "korean": "우리 집",
+          "japanese": "うちの"
+        },
+        {
+          "korean": "앞에",
+          "japanese": "前に"
+        },
+        {
+          "korean": "고양이가",
+          "japanese": "ネコが"
         },
         {
           "korean": "찾아와",
@@ -4145,8 +5509,12 @@ window.SCENES_DATA = {
           "japanese": "スマホばかり"
         },
         {
-          "korean": "계속 확인하게 되네",
-          "japanese": "つい何度も見ちゃうんだ"
+          "korean": "계속",
+          "japanese": "つい何度も"
+        },
+        {
+          "korean": "확인하게 되네",
+          "japanese": "見ちゃうんだ"
         }
       ],
       "result": {
@@ -4172,8 +5540,12 @@ window.SCENES_DATA = {
           "japanese": "塀の上で"
         },
         {
-          "korean": "도마뱀이 해바라기하고 있어",
-          "japanese": "トカゲが日向ぼっこしてるよ"
+          "korean": "도마뱀이",
+          "japanese": "トカゲが"
+        },
+        {
+          "korean": "해바라기하고 있어",
+          "japanese": "日向ぼっこしてるよ"
         }
       ],
       "result": {
@@ -4196,16 +5568,28 @@ window.SCENES_DATA = {
       "title": "コーヒー",
       "chunks": [
         {
-          "korean": "첫눈 오는 날",
-          "japanese": "初雪の日に"
+          "korean": "첫눈",
+          "japanese": "初雪の"
         },
         {
-          "korean": "마신 커피가",
-          "japanese": "飲んだコーヒーが"
+          "korean": "오는 날",
+          "japanese": "日に"
         },
         {
-          "korean": "제일 따뜻했어",
-          "japanese": "一番あったかかったな"
+          "korean": "마신",
+          "japanese": "飲んだ"
+        },
+        {
+          "korean": "커피가",
+          "japanese": "コーヒーが"
+        },
+        {
+          "korean": "제일",
+          "japanese": "一番"
+        },
+        {
+          "korean": "따뜻했어",
+          "japanese": "あったかかったな"
         }
       ],
       "result": {
@@ -4227,16 +5611,24 @@ window.SCENES_DATA = {
       "title": "こいのぼり",
       "chunks": [
         {
-          "korean": "오월 바람에",
-          "japanese": "五月の風に"
+          "korean": "오월",
+          "japanese": "五月の"
+        },
+        {
+          "korean": "바람에",
+          "japanese": "風に"
         },
         {
           "korean": "잉어 깃발이",
           "japanese": "こいのぼりが"
         },
         {
-          "korean": "힘차게 날린다",
-          "japanese": "勢いよくなびいてるよ"
+          "korean": "힘차게",
+          "japanese": "勢いよく"
+        },
+        {
+          "korean": "날린다",
+          "japanese": "なびいてるよ"
         }
       ],
       "result": {
@@ -4259,12 +5651,20 @@ window.SCENES_DATA = {
       "title": "おにぎり",
       "chunks": [
         {
-          "korean": "소풍 갈 때",
-          "japanese": "遠足の日は"
+          "korean": "소풍",
+          "japanese": "遠足に"
         },
         {
-          "korean": "내가 주먹밥",
-          "japanese": "私がおにぎりを"
+          "korean": "갈 때",
+          "japanese": "行く時は"
+        },
+        {
+          "korean": "내가",
+          "japanese": "私が"
+        },
+        {
+          "korean": "주먹밥",
+          "japanese": "おにぎりを"
         },
         {
           "korean": "싸 줄게",
@@ -4290,12 +5690,20 @@ window.SCENES_DATA = {
       "title": "シマウマ",
       "chunks": [
         {
-          "korean": "얼룩말 무늬가",
-          "japanese": "シマウマの模様が"
+          "korean": "얼룩말",
+          "japanese": "シマウマの"
         },
         {
-          "korean": "다 다르다는 거 알아?",
-          "japanese": "一頭ずつ違うって知ってた？"
+          "korean": "무늬가",
+          "japanese": "模様が"
+        },
+        {
+          "korean": "다",
+          "japanese": "一頭ずつ"
+        },
+        {
+          "korean": "다르다는 거 알아?",
+          "japanese": "違うって知ってた？"
         }
       ],
       "result": {
@@ -4317,12 +5725,20 @@ window.SCENES_DATA = {
       "title": "ごはん",
       "chunks": [
         {
-          "korean": "밥은 먹었어?",
-          "japanese": "ごはんは食べた？"
+          "korean": "밥은",
+          "japanese": "ごはんは"
         },
         {
-          "korean": "얼굴이 안 좋아 보여",
-          "japanese": "顔色があまり良くないよ"
+          "korean": "먹었어?",
+          "japanese": "食べた？"
+        },
+        {
+          "korean": "얼굴이",
+          "japanese": "顔色が"
+        },
+        {
+          "korean": "안 좋아 보여",
+          "japanese": "あまり良くないよ"
         }
       ],
       "result": {
@@ -4345,12 +5761,24 @@ window.SCENES_DATA = {
       "title": "サイ",
       "chunks": [
         {
-          "korean": "코뿔소 뿔 보니까",
-          "japanese": "サイの角を見ると"
+          "korean": "코뿔소",
+          "japanese": "サイの"
         },
         {
-          "korean": "진짜 위엄 있다",
-          "japanese": "本当に貫禄があるね"
+          "korean": "뿔",
+          "japanese": "角を"
+        },
+        {
+          "korean": "보니까",
+          "japanese": "見ると"
+        },
+        {
+          "korean": "진짜",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "위엄 있다",
+          "japanese": "貫禄があるね"
         }
       ],
       "result": {
@@ -4373,12 +5801,24 @@ window.SCENES_DATA = {
       "title": "ペンギン",
       "chunks": [
         {
-          "korean": "겨울 동물원에서",
-          "japanese": "冬の動物園で"
+          "korean": "겨울",
+          "japanese": "冬の"
         },
         {
-          "korean": "펭귄이 제일 신났어",
-          "japanese": "ペンギンが一番元気だったよ"
+          "korean": "동물원에서",
+          "japanese": "動物園で"
+        },
+        {
+          "korean": "펭귄이",
+          "japanese": "ペンギンが"
+        },
+        {
+          "korean": "제일",
+          "japanese": "一番"
+        },
+        {
+          "korean": "신났어",
+          "japanese": "元気だったよ"
         }
       ],
       "result": {
@@ -4404,8 +5844,12 @@ window.SCENES_DATA = {
           "japanese": "このジーンズ、"
         },
         {
-          "korean": "십 년째 못 버리겠어",
-          "japanese": "10年経っても捨てられないんだ"
+          "korean": "십 년째",
+          "japanese": "10年経っても"
+        },
+        {
+          "korean": "못 버리겠어",
+          "japanese": "捨てられないんだ"
         }
       ],
       "result": {
@@ -4428,12 +5872,28 @@ window.SCENES_DATA = {
       "title": "ハト",
       "chunks": [
         {
-          "korean": "공원 벤치에 앉아서",
-          "japanese": "公園のベンチに座って"
+          "korean": "공원",
+          "japanese": "公園の"
         },
         {
-          "korean": "비둘기한테 빵 부스러기 던져 줬어",
-          "japanese": "ハトにパンくずをあげたんだ"
+          "korean": "벤치에",
+          "japanese": "ベンチに"
+        },
+        {
+          "korean": "앉아서",
+          "japanese": "座って"
+        },
+        {
+          "korean": "비둘기한테",
+          "japanese": "ハトに"
+        },
+        {
+          "korean": "빵 부스러기",
+          "japanese": "パンくずを"
+        },
+        {
+          "korean": "던져 줬어",
+          "japanese": "あげたんだ"
         }
       ],
       "result": {
@@ -4456,16 +5916,24 @@ window.SCENES_DATA = {
       "title": "クレヨン",
       "chunks": [
         {
-          "korean": "크레용으로 그린",
-          "japanese": "クレヨンで描いた"
+          "korean": "크레용으로",
+          "japanese": "クレヨンで"
+        },
+        {
+          "korean": "그린",
+          "japanese": "描いた"
         },
         {
           "korean": "우리 가족,",
           "japanese": "うちの家族の絵、"
         },
         {
-          "korean": "아직 갖고 있어",
-          "japanese": "まだ持ってるよ"
+          "korean": "아직",
+          "japanese": "まだ"
+        },
+        {
+          "korean": "갖고 있어",
+          "japanese": "持ってるよ"
         }
       ],
       "result": {
@@ -4487,12 +5955,24 @@ window.SCENES_DATA = {
       "title": "カレンダー",
       "chunks": [
         {
-          "korean": "달력에 동그라미 친 날까지",
-          "japanese": "カレンダーに丸をつけた日まで"
+          "korean": "달력에",
+          "japanese": "カレンダーに"
         },
         {
-          "korean": "며칠 안 남았어",
-          "japanese": "もう何日もないよ"
+          "korean": "동그라미 친",
+          "japanese": "丸をつけた"
+        },
+        {
+          "korean": "날까지",
+          "japanese": "日まで"
+        },
+        {
+          "korean": "며칠",
+          "japanese": "何日も"
+        },
+        {
+          "korean": "안 남았어",
+          "japanese": "ないよ"
         }
       ],
       "result": {
@@ -4515,12 +5995,24 @@ window.SCENES_DATA = {
       "title": "お弁当",
       "chunks": [
         {
-          "korean": "오늘 아침에 일찍 일어나서",
-          "japanese": "今朝早く起きて"
+          "korean": "오늘 아침에",
+          "japanese": "今朝"
         },
         {
-          "korean": "도시락 쌌어",
-          "japanese": "お弁当を作ったんだよ"
+          "korean": "일찍",
+          "japanese": "早く"
+        },
+        {
+          "korean": "일어나서",
+          "japanese": "起きて"
+        },
+        {
+          "korean": "도시락",
+          "japanese": "お弁当を"
+        },
+        {
+          "korean": "쌌어",
+          "japanese": "作ったんだよ"
         }
       ],
       "result": {
@@ -4543,12 +6035,24 @@ window.SCENES_DATA = {
       "title": "スキー",
       "chunks": [
         {
-          "korean": "스키 처음 타서",
-          "japanese": "スキー初めて乗って"
+          "korean": "스키",
+          "japanese": "スキー"
         },
         {
-          "korean": "계속 넘어졌잖아",
-          "japanese": "何度も転んだよね"
+          "korean": "처음",
+          "japanese": "初めて"
+        },
+        {
+          "korean": "타서",
+          "japanese": "乗って"
+        },
+        {
+          "korean": "계속",
+          "japanese": "何度も"
+        },
+        {
+          "korean": "넘어졌잖아",
+          "japanese": "転んだよね"
         }
       ],
       "result": {
@@ -4575,8 +6079,16 @@ window.SCENES_DATA = {
           "japanese": "あれって"
         },
         {
-          "korean": "진짜 UFO 아니었을까?",
-          "japanese": "本当にUFOじゃなかったかな？"
+          "korean": "진짜",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "UFO",
+          "japanese": "UFO"
+        },
+        {
+          "korean": "아니었을까?",
+          "japanese": "じゃなかったかな？"
         }
       ],
       "result": {
@@ -4602,8 +6114,12 @@ window.SCENES_DATA = {
           "japanese": "コアラみたいに"
         },
         {
-          "korean": "하루 종일 안겨 있고 싶다",
-          "japanese": "一日中くっついていたいな"
+          "korean": "하루 종일",
+          "japanese": "一日中"
+        },
+        {
+          "korean": "안겨 있고 싶다",
+          "japanese": "くっついていたいな"
         }
       ],
       "result": {
@@ -4630,12 +6146,20 @@ window.SCENES_DATA = {
           "japanese": "雨の日の"
         },
         {
-          "korean": "럭비 경기,",
-          "japanese": "ラグビーの試合、"
+          "korean": "럭비",
+          "japanese": "ラグビーの"
         },
         {
-          "korean": "다들 흙투성이네",
-          "japanese": "みんな泥だらけだね"
+          "korean": "경기,",
+          "japanese": "試合、"
+        },
+        {
+          "korean": "다들",
+          "japanese": "みんな"
+        },
+        {
+          "korean": "흙투성이네",
+          "japanese": "泥だらけだね"
         }
       ],
       "result": {
@@ -4661,8 +6185,12 @@ window.SCENES_DATA = {
           "japanese": "秋の夜に"
         },
         {
-          "korean": "군밤 까먹으면서",
-          "japanese": "焼き栗を剥きながら"
+          "korean": "군밤",
+          "japanese": "焼き栗を"
+        },
+        {
+          "korean": "까먹으면서",
+          "japanese": "剥きながら"
         },
         {
           "korean": "얘기하자",
@@ -4688,16 +6216,28 @@ window.SCENES_DATA = {
       "title": "ココナッツ",
       "chunks": [
         {
-          "korean": "그 해변에서 마신",
-          "japanese": "あの浜辺で飲んだ"
+          "korean": "그 해변에서",
+          "japanese": "あの浜辺で"
         },
         {
-          "korean": "코코넛 주스,",
-          "japanese": "ココナッツジュース、"
+          "korean": "마신",
+          "japanese": "飲んだ"
         },
         {
-          "korean": "진짜 시원했는데",
-          "japanese": "本当に爽やかだったな"
+          "korean": "코코넛",
+          "japanese": "ココナッツ"
+        },
+        {
+          "korean": "주스,",
+          "japanese": "ジュース、"
+        },
+        {
+          "korean": "진짜",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "시원했는데",
+          "japanese": "爽やかだったな"
         }
       ],
       "result": {
@@ -4728,8 +6268,12 @@ window.SCENES_DATA = {
           "japanese": "実るほど"
         },
         {
-          "korean": "고개를 숙인다잖아",
-          "japanese": "頭を垂れるって言うよ"
+          "korean": "고개를",
+          "japanese": "頭を"
+        },
+        {
+          "korean": "숙인다잖아",
+          "japanese": "垂れるって言うよ"
         }
       ],
       "result": {
@@ -4751,12 +6295,20 @@ window.SCENES_DATA = {
       "title": "家",
       "chunks": [
         {
-          "korean": "집에 오니까",
-          "japanese": "家に帰ってきたら"
+          "korean": "집에",
+          "japanese": "家に"
         },
         {
-          "korean": "이제야 마음이 놓인다",
-          "japanese": "やっと安心したよ"
+          "korean": "오니까",
+          "japanese": "帰ってきたら"
+        },
+        {
+          "korean": "이제야",
+          "japanese": "やっと"
+        },
+        {
+          "korean": "마음이 놓인다",
+          "japanese": "安心したよ"
         }
       ],
       "result": {
@@ -4778,12 +6330,24 @@ window.SCENES_DATA = {
       "title": "窓",
       "chunks": [
         {
-          "korean": "창문 열었더니",
-          "japanese": "窓を開けたら"
+          "korean": "창문",
+          "japanese": "窓を"
         },
         {
-          "korean": "찬 바람이 훅 들어왔어",
-          "japanese": "冷たい風がふっと入ってきたよ"
+          "korean": "열었더니",
+          "japanese": "開けたら"
+        },
+        {
+          "korean": "찬 바람이",
+          "japanese": "冷たい風が"
+        },
+        {
+          "korean": "훅",
+          "japanese": "ふっと"
+        },
+        {
+          "korean": "들어왔어",
+          "japanese": "入ってきたよ"
         }
       ],
       "result": {
@@ -4806,8 +6370,20 @@ window.SCENES_DATA = {
       "title": "しずく",
       "chunks": [
         {
-          "korean": "창문에 맺힌 물방울 보면서",
-          "japanese": "窓についたしずくを見ながら"
+          "korean": "창문에",
+          "japanese": "窓に"
+        },
+        {
+          "korean": "맺힌",
+          "japanese": "ついた"
+        },
+        {
+          "korean": "물방울",
+          "japanese": "しずくを"
+        },
+        {
+          "korean": "보면서",
+          "japanese": "見ながら"
         },
         {
           "korean": "네 생각했어",
@@ -4834,12 +6410,20 @@ window.SCENES_DATA = {
       "title": "地図",
       "chunks": [
         {
-          "korean": "지도 보면서 갔는데도",
-          "japanese": "地図を見ながら行ったのに"
+          "korean": "지도",
+          "japanese": "地図を"
         },
         {
-          "korean": "길을 잃었잖아",
-          "japanese": "道に迷っちゃったよね"
+          "korean": "보면서 갔는데도",
+          "japanese": "見ながら行ったのに"
+        },
+        {
+          "korean": "길을",
+          "japanese": "道に"
+        },
+        {
+          "korean": "잃었잖아",
+          "japanese": "迷っちゃったよね"
         }
       ],
       "result": {
@@ -4862,12 +6446,24 @@ window.SCENES_DATA = {
       "title": "ダーツ",
       "chunks": [
         {
-          "korean": "다트 한 판,",
-          "japanese": "ダーツ一勝負、"
+          "korean": "다트",
+          "japanese": "ダーツ"
         },
         {
-          "korean": "지는 사람이 커피 사기다",
-          "japanese": "負けた方がコーヒーおごりね"
+          "korean": "한 판,",
+          "japanese": "一勝負、"
+        },
+        {
+          "korean": "지는 사람이",
+          "japanese": "負けた方が"
+        },
+        {
+          "korean": "커피",
+          "japanese": "コーヒー"
+        },
+        {
+          "korean": "사기다",
+          "japanese": "おごりね"
         }
       ],
       "result": {
@@ -4890,12 +6486,24 @@ window.SCENES_DATA = {
       "title": "サラダ",
       "chunks": [
         {
-          "korean": "봄이라 그런지",
-          "japanese": "春だからか"
+          "korean": "봄이라",
+          "japanese": "春だから"
         },
         {
-          "korean": "샐러드가 자꾸 당겨",
-          "japanese": "サラダが無性に食べたくなるんだ"
+          "korean": "그런지",
+          "japanese": "か"
+        },
+        {
+          "korean": "샐러드가",
+          "japanese": "サラダが"
+        },
+        {
+          "korean": "자꾸",
+          "japanese": "無性に"
+        },
+        {
+          "korean": "당겨",
+          "japanese": "食べたくなるんだ"
         }
       ],
       "result": {
@@ -4918,12 +6526,20 @@ window.SCENES_DATA = {
       "title": "パンダ",
       "chunks": [
         {
-          "korean": "판다 보려고",
-          "japanese": "パンダを見るために"
+          "korean": "판다",
+          "japanese": "パンダを"
         },
         {
-          "korean": "두 시간 줄 섰잖아",
-          "japanese": "二時間も並んだんだよ"
+          "korean": "보려고",
+          "japanese": "見るために"
+        },
+        {
+          "korean": "두 시간",
+          "japanese": "二時間も"
+        },
+        {
+          "korean": "줄 섰잖아",
+          "japanese": "並んだんだよ"
         }
       ],
       "result": {
@@ -4946,12 +6562,24 @@ window.SCENES_DATA = {
       "title": "アボカド",
       "chunks": [
         {
-          "korean": "요즘 아침마다",
-          "japanese": "最近毎朝"
+          "korean": "요즘",
+          "japanese": "最近"
         },
         {
-          "korean": "아보카도 토스트 먹어",
-          "japanese": "アボカドトーストを食べてるよ"
+          "korean": "아침마다",
+          "japanese": "毎朝"
+        },
+        {
+          "korean": "아보카도",
+          "japanese": "アボカド"
+        },
+        {
+          "korean": "토스트",
+          "japanese": "トーストを"
+        },
+        {
+          "korean": "먹어",
+          "japanese": "食べてるよ"
         }
       ],
       "result": {
@@ -4974,12 +6602,24 @@ window.SCENES_DATA = {
       "title": "風船",
       "chunks": [
         {
-          "korean": "풍선 놓치면",
-          "japanese": "風船を離したら"
+          "korean": "풍선",
+          "japanese": "風船を"
         },
         {
-          "korean": "하늘 끝까지 날아가겠다",
-          "japanese": "空の果てまで飛んでいきそうだね"
+          "korean": "놓치면",
+          "japanese": "離したら"
+        },
+        {
+          "korean": "하늘",
+          "japanese": "空の"
+        },
+        {
+          "korean": "끝까지",
+          "japanese": "果てまで"
+        },
+        {
+          "korean": "날아가겠다",
+          "japanese": "飛んでいきそうだね"
         }
       ],
       "result": {
@@ -5001,12 +6641,20 @@ window.SCENES_DATA = {
       "title": "おばあちゃん",
       "chunks": [
         {
-          "korean": "할머니한테 배운 대로",
-          "japanese": "おばあちゃんに教わった通りに"
+          "korean": "할머니한테",
+          "japanese": "おばあちゃんに"
         },
         {
-          "korean": "김치 담가 봤어",
-          "japanese": "キムチを漬けてみたよ"
+          "korean": "배운 대로",
+          "japanese": "教わった通りに"
+        },
+        {
+          "korean": "김치",
+          "japanese": "キムチを"
+        },
+        {
+          "korean": "담가 봤어",
+          "japanese": "漬けてみたよ"
         }
       ],
       "result": {
@@ -5033,12 +6681,20 @@ window.SCENES_DATA = {
           "japanese": "秋夕（チュソク）には"
         },
         {
-          "korean": "경단 빚으면서",
-          "japanese": "だんごを作りながら"
+          "korean": "경단",
+          "japanese": "だんごを"
         },
         {
-          "korean": "소원 빌자",
-          "japanese": "願いごとをしよう"
+          "korean": "빚으면서",
+          "japanese": "作りながら"
+        },
+        {
+          "korean": "소원",
+          "japanese": "願いごとを"
+        },
+        {
+          "korean": "빌자",
+          "japanese": "しよう"
         }
       ],
       "result": {
@@ -5061,16 +6717,32 @@ window.SCENES_DATA = {
       "title": "ベーコン",
       "chunks": [
         {
-          "korean": "주말 아침엔",
-          "japanese": "週末の朝は"
+          "korean": "주말",
+          "japanese": "週末の"
         },
         {
-          "korean": "베이컨 굽는 냄새로",
-          "japanese": "ベーコンを焼く匂いで"
+          "korean": "아침엔",
+          "japanese": "朝は"
         },
         {
-          "korean": "눈이 떠져",
-          "japanese": "目が覚めるんだ"
+          "korean": "베이컨",
+          "japanese": "ベーコンを"
+        },
+        {
+          "korean": "굽는",
+          "japanese": "焼く"
+        },
+        {
+          "korean": "냄새로",
+          "japanese": "匂いで"
+        },
+        {
+          "korean": "눈이",
+          "japanese": "目が"
+        },
+        {
+          "korean": "떠져",
+          "japanese": "覚めるんだ"
         }
       ],
       "result": {
@@ -5093,12 +6765,24 @@ window.SCENES_DATA = {
       "title": "鐘",
       "chunks": [
         {
-          "korean": "제야의 종 치는 소리 들으면서",
-          "japanese": "除夜の鐘を聞きながら"
+          "korean": "제야의 종",
+          "japanese": "除夜の鐘を"
         },
         {
-          "korean": "새해를 맞자",
-          "japanese": "新年を迎えようよ"
+          "korean": "치는 소리",
+          "japanese": "鳴る音を"
+        },
+        {
+          "korean": "들으면서",
+          "japanese": "聞きながら"
+        },
+        {
+          "korean": "새해를",
+          "japanese": "新年を"
+        },
+        {
+          "korean": "맞자",
+          "japanese": "迎えようよ"
         }
       ],
       "result": {
@@ -5124,8 +6808,16 @@ window.SCENES_DATA = {
           "japanese": "子どもの頃は"
         },
         {
-          "korean": "가지 진짜 싫어했는데",
-          "japanese": "なすが本当に嫌いだったんだよね"
+          "korean": "가지",
+          "japanese": "なすが"
+        },
+        {
+          "korean": "진짜",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "싫어했는데",
+          "japanese": "嫌いだったんだよね"
         }
       ],
       "result": {
@@ -5152,8 +6844,12 @@ window.SCENES_DATA = {
           "japanese": "あの星まで"
         },
         {
-          "korean": "로켓 타고 가고 싶다",
-          "japanese": "ロケットに乗って行きたいな"
+          "korean": "로켓",
+          "japanese": "ロケットに"
+        },
+        {
+          "korean": "타고 가고 싶다",
+          "japanese": "乗って行きたいな"
         }
       ],
       "result": {
@@ -5176,12 +6872,32 @@ window.SCENES_DATA = {
       "title": "トラック",
       "chunks": [
         {
-          "korean": "이삿짐 트럭 오기 전에",
-          "japanese": "引っ越しトラックが来る前に"
+          "korean": "이삿짐",
+          "japanese": "引っ越し"
         },
         {
-          "korean": "마지막으로 방 한번 둘러봤어",
-          "japanese": "最後にもう一度部屋を見回したよ"
+          "korean": "트럭",
+          "japanese": "トラックが"
+        },
+        {
+          "korean": "오기 전에",
+          "japanese": "来る前に"
+        },
+        {
+          "korean": "마지막으로",
+          "japanese": "最後に"
+        },
+        {
+          "korean": "방",
+          "japanese": "部屋を"
+        },
+        {
+          "korean": "한번",
+          "japanese": "もう一度"
+        },
+        {
+          "korean": "둘러봤어",
+          "japanese": "見回したよ"
         }
       ],
       "result": {
@@ -5208,8 +6924,12 @@ window.SCENES_DATA = {
           "japanese": "この腕時計、"
         },
         {
-          "korean": "아빠가 쓰시던 거야",
-          "japanese": "お父さんが使ってたものなんだ"
+          "korean": "아빠가",
+          "japanese": "お父さんが"
+        },
+        {
+          "korean": "쓰시던 거야",
+          "japanese": "使ってたものなんだ"
         }
       ],
       "result": {
@@ -5236,8 +6956,16 @@ window.SCENES_DATA = {
           "japanese": "このゲーム、"
         },
         {
-          "korean": "딱 한 판만 하고 자자",
-          "japanese": "もう一回だけやって寝ようね"
+          "korean": "딱",
+          "japanese": "もう"
+        },
+        {
+          "korean": "한 판만",
+          "japanese": "一回だけ"
+        },
+        {
+          "korean": "하고 자자",
+          "japanese": "やって寝ようね"
         }
       ],
       "result": {
@@ -5263,12 +6991,20 @@ window.SCENES_DATA = {
           "japanese": "夜遅くに"
         },
         {
-          "korean": "경찰차 사이렌 소리에",
-          "japanese": "パトカーのサイレンの音で"
+          "korean": "경찰차",
+          "japanese": "パトカーの"
         },
         {
-          "korean": "잠이 깼어",
-          "japanese": "目が覚めたよ"
+          "korean": "사이렌 소리에",
+          "japanese": "サイレンの音で"
+        },
+        {
+          "korean": "잠이",
+          "japanese": "目が"
+        },
+        {
+          "korean": "깼어",
+          "japanese": "覚めたよ"
         }
       ],
       "result": {
@@ -5291,16 +7027,28 @@ window.SCENES_DATA = {
       "title": "ケーキ",
       "chunks": [
         {
-          "korean": "생일 축하해,",
-          "japanese": "誕生日おめでとう、"
+          "korean": "생일",
+          "japanese": "誕生日、"
         },
         {
-          "korean": "케이크는 내가",
-          "japanese": "ケーキは私が"
+          "korean": "축하해,",
+          "japanese": "おめでとう、"
         },
         {
-          "korean": "직접 만들었어",
-          "japanese": "手作りしたんだよ"
+          "korean": "케이크는",
+          "japanese": "ケーキは"
+        },
+        {
+          "korean": "내가",
+          "japanese": "私が"
+        },
+        {
+          "korean": "직접",
+          "japanese": "自分で"
+        },
+        {
+          "korean": "만들었어",
+          "japanese": "作ったんだよ"
         }
       ],
       "result": {
@@ -5322,12 +7070,20 @@ window.SCENES_DATA = {
       "title": "羊",
       "chunks": [
         {
-          "korean": "양을 세도",
-          "japanese": "羊を数えても"
+          "korean": "양을",
+          "japanese": "羊を"
         },
         {
-          "korean": "잠이 안 온다",
-          "japanese": "眠れないんだ"
+          "korean": "세도",
+          "japanese": "数えても"
+        },
+        {
+          "korean": "잠이",
+          "japanese": "眠りが"
+        },
+        {
+          "korean": "안 온다",
+          "japanese": "来ないんだ"
         }
       ],
       "result": {
@@ -5354,8 +7110,16 @@ window.SCENES_DATA = {
           "japanese": "炎天下でも"
         },
         {
-          "korean": "개미들은 부지런히 움직이네",
-          "japanese": "アリたちは忙しく動いてるね"
+          "korean": "개미들은",
+          "japanese": "アリたちは"
+        },
+        {
+          "korean": "부지런히",
+          "japanese": "忙しく"
+        },
+        {
+          "korean": "움직이네",
+          "japanese": "動いてるね"
         }
       ],
       "result": {
@@ -5382,8 +7146,12 @@ window.SCENES_DATA = {
           "japanese": "フライドポテトは"
         },
         {
-          "korean": "역시 나눠 먹어야",
-          "japanese": "やっぱり分けて食べてこそ"
+          "korean": "역시",
+          "japanese": "やっぱり"
+        },
+        {
+          "korean": "나눠 먹어야",
+          "japanese": "分けて食べてこそ"
         },
         {
           "korean": "맛있지",
@@ -5409,12 +7177,24 @@ window.SCENES_DATA = {
       "title": "タコ",
       "chunks": [
         {
-          "korean": "시장에서 산 문어로",
-          "japanese": "市場で買ったタコで"
+          "korean": "시장에서",
+          "japanese": "市場で"
         },
         {
-          "korean": "엄마가 숙회 해 주셨어",
-          "japanese": "お母さんが茹でて出してくれたんだ"
+          "korean": "산",
+          "japanese": "買った"
+        },
+        {
+          "korean": "문어로",
+          "japanese": "タコで"
+        },
+        {
+          "korean": "엄마가",
+          "japanese": "お母さんが"
+        },
+        {
+          "korean": "숙회 해 주셨어",
+          "japanese": "茹でて出してくれたんだ"
         }
       ],
       "result": {
@@ -5437,12 +7217,20 @@ window.SCENES_DATA = {
       "title": "プリンター",
       "chunks": [
         {
-          "korean": "프린터 앞에서",
-          "japanese": "プリンターの前で"
+          "korean": "프린터",
+          "japanese": "プリンターの"
         },
         {
-          "korean": "서류 기다리는 중이야",
-          "japanese": "書類を待ってるところだよ"
+          "korean": "앞에서",
+          "japanese": "前で"
+        },
+        {
+          "korean": "서류",
+          "japanese": "書類を"
+        },
+        {
+          "korean": "기다리는 중이야",
+          "japanese": "待ってるところだよ"
         }
       ],
       "result": {
@@ -5465,12 +7253,20 @@ window.SCENES_DATA = {
       "title": "オオカミ",
       "chunks": [
         {
-          "korean": "보름달 뜨면",
-          "japanese": "満月が昇ると"
+          "korean": "보름달",
+          "japanese": "満月が"
         },
         {
-          "korean": "늑대 우는 소리가",
-          "japanese": "オオカミの遠吠えが"
+          "korean": "뜨면",
+          "japanese": "昇ると"
+        },
+        {
+          "korean": "늑대",
+          "japanese": "オオカミの"
+        },
+        {
+          "korean": "우는 소리가",
+          "japanese": "遠吠えが"
         },
         {
           "korean": "들리는 것 같아",
@@ -5496,12 +7292,24 @@ window.SCENES_DATA = {
       "title": "ジュース",
       "chunks": [
         {
-          "korean": "방금 짠 주스야,",
-          "japanese": "搾りたてのジュースだよ、"
+          "korean": "방금",
+          "japanese": "たった今"
         },
         {
-          "korean": "시원할 때 마셔",
-          "japanese": "冷たいうちに飲んで"
+          "korean": "짠",
+          "japanese": "搾った"
+        },
+        {
+          "korean": "주스야,",
+          "japanese": "ジュースだよ、"
+        },
+        {
+          "korean": "시원할 때",
+          "japanese": "冷たいうちに"
+        },
+        {
+          "korean": "마셔",
+          "japanese": "飲んで"
         }
       ],
       "result": {
@@ -5524,12 +7332,24 @@ window.SCENES_DATA = {
       "title": "アライグマ",
       "chunks": [
         {
-          "korean": "밤에 쓰레기통 뒤지는",
-          "japanese": "夜にゴミ箱をあさってる"
+          "korean": "밤에",
+          "japanese": "夜に"
         },
         {
-          "korean": "너구리를 봤어",
-          "japanese": "アライグマを見たよ"
+          "korean": "쓰레기통",
+          "japanese": "ゴミ箱を"
+        },
+        {
+          "korean": "뒤지는",
+          "japanese": "あさってる"
+        },
+        {
+          "korean": "너구리를",
+          "japanese": "アライグマを"
+        },
+        {
+          "korean": "봤어",
+          "japanese": "見たよ"
         }
       ],
       "result": {
@@ -5551,16 +7371,24 @@ window.SCENES_DATA = {
       "title": "パイナップル",
       "chunks": [
         {
-          "korean": "그 섬에서 먹었던",
-          "japanese": "あの島で食べた"
+          "korean": "그 섬에서",
+          "japanese": "あの島で"
+        },
+        {
+          "korean": "먹었던",
+          "japanese": "食べた"
         },
         {
           "korean": "파인애플",
-          "japanese": "パイナップル"
+          "japanese": "パイナップル、"
         },
         {
-          "korean": "아직도 생각나",
-          "japanese": "まだ覚えてるよ"
+          "korean": "아직도",
+          "japanese": "まだ"
+        },
+        {
+          "korean": "생각나",
+          "japanese": "覚えてるよ"
         }
       ],
       "result": {
@@ -5587,8 +7415,12 @@ window.SCENES_DATA = {
           "japanese": "このプレゼント、"
         },
         {
-          "korean": "언제 열어 볼 거야?",
-          "japanese": "いつ開けてみるの？"
+          "korean": "언제",
+          "japanese": "いつ"
+        },
+        {
+          "korean": "열어 볼 거야?",
+          "japanese": "開けてみるの？"
         }
       ],
       "result": {
@@ -5614,8 +7446,16 @@ window.SCENES_DATA = {
           "japanese": "春風に乗って"
         },
         {
-          "korean": "나비 한 마리가 날아들었어",
-          "japanese": "チョウが一匹飛んできたよ"
+          "korean": "나비",
+          "japanese": "チョウが"
+        },
+        {
+          "korean": "한 마리가",
+          "japanese": "一匹"
+        },
+        {
+          "korean": "날아들었어",
+          "japanese": "飛んできたよ"
         }
       ],
       "result": {
@@ -5638,12 +7478,24 @@ window.SCENES_DATA = {
       "title": "トランペット",
       "chunks": [
         {
-          "korean": "트럼펫 소리 들리는 거 보니",
-          "japanese": "トランペットの音が聞こえるから"
+          "korean": "트럼펫",
+          "japanese": "トランペットの"
         },
         {
-          "korean": "축제 시작했나 봐",
-          "japanese": "お祭りが始まったみたいだね"
+          "korean": "소리",
+          "japanese": "音が"
+        },
+        {
+          "korean": "들리는 거 보니",
+          "japanese": "聞こえるから"
+        },
+        {
+          "korean": "축제",
+          "japanese": "お祭りが"
+        },
+        {
+          "korean": "시작했나 봐",
+          "japanese": "始まったみたいだね"
         }
       ],
       "result": {
@@ -5665,12 +7517,24 @@ window.SCENES_DATA = {
       "title": "パンケーキ",
       "chunks": [
         {
-          "korean": "팬케이크 다 익을 때까지",
-          "japanese": "パンケーキが焼けるまで"
+          "korean": "팬케이크",
+          "japanese": "パンケーキが"
         },
         {
-          "korean": "좀만 기다려",
-          "japanese": "もう少し待ってて"
+          "korean": "다",
+          "japanese": "全部"
+        },
+        {
+          "korean": "익을 때까지",
+          "japanese": "焼けるまで"
+        },
+        {
+          "korean": "좀만",
+          "japanese": "もう少し"
+        },
+        {
+          "korean": "기다려",
+          "japanese": "待ってて"
         }
       ],
       "result": {
@@ -5692,12 +7556,24 @@ window.SCENES_DATA = {
       "title": "リボン",
       "chunks": [
         {
-          "korean": "포장한 다음에",
-          "japanese": "包んだあとに"
+          "korean": "포장한",
+          "japanese": "包んだ"
         },
         {
-          "korean": "리본 예쁘게 묶어 줄게",
-          "japanese": "リボンをきれいに結んであげるね"
+          "korean": "다음에",
+          "japanese": "あとに"
+        },
+        {
+          "korean": "리본",
+          "japanese": "リボンを"
+        },
+        {
+          "korean": "예쁘게",
+          "japanese": "きれいに"
+        },
+        {
+          "korean": "묶어 줄게",
+          "japanese": "結んであげるね"
         }
       ],
       "result": {
@@ -5720,12 +7596,24 @@ window.SCENES_DATA = {
       "title": "救急車",
       "chunks": [
         {
-          "korean": "구급차 소리 듣고",
-          "japanese": "救急車の音を聞いて"
+          "korean": "구급차",
+          "japanese": "救急車の"
         },
         {
-          "korean": "너한테 무슨 일 있나 걱정했어",
-          "japanese": "君に何かあったのか心配したよ"
+          "korean": "소리 듣고",
+          "japanese": "音を聞いて"
+        },
+        {
+          "korean": "너한테",
+          "japanese": "君に"
+        },
+        {
+          "korean": "무슨 일 있나",
+          "japanese": "何かあったのか"
+        },
+        {
+          "korean": "걱정했어",
+          "japanese": "心配したよ"
         }
       ],
       "result": {
@@ -5748,12 +7636,24 @@ window.SCENES_DATA = {
       "title": "クジャク",
       "chunks": [
         {
-          "korean": "공작이 꼬리 펼치는 순간",
-          "japanese": "クジャクが尾を広げた瞬間"
+          "korean": "공작이",
+          "japanese": "クジャクが"
         },
         {
-          "korean": "다들 숨죽였어",
-          "japanese": "みんな息をのんだよ"
+          "korean": "꼬리",
+          "japanese": "尾を"
+        },
+        {
+          "korean": "펼치는 순간",
+          "japanese": "広げた瞬間"
+        },
+        {
+          "korean": "다들",
+          "japanese": "みんな"
+        },
+        {
+          "korean": "숨죽였어",
+          "japanese": "息をのんだよ"
         }
       ],
       "result": {
@@ -5775,8 +7675,12 @@ window.SCENES_DATA = {
       "title": "トマト",
       "chunks": [
         {
-          "korean": "베란다에서 키운",
-          "japanese": "ベランダで育てた"
+          "korean": "베란다에서",
+          "japanese": "ベランダで"
+        },
+        {
+          "korean": "키운",
+          "japanese": "育てた"
         },
         {
           "korean": "토마토",
@@ -5806,16 +7710,28 @@ window.SCENES_DATA = {
       "title": "スクーター",
       "chunks": [
         {
-          "korean": "스쿠터 타고 배달하던",
-          "japanese": "スクーターで配達してた"
+          "korean": "스쿠터",
+          "japanese": "スクーター"
+        },
+        {
+          "korean": "타고",
+          "japanese": "乗って"
+        },
+        {
+          "korean": "배달하던",
+          "japanese": "配達してた"
         },
         {
           "korean": "그 겨울,",
           "japanese": "あの冬、"
         },
         {
-          "korean": "진짜 추웠어",
-          "japanese": "本当に寒かったよ"
+          "korean": "진짜",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "추웠어",
+          "japanese": "寒かったよ"
         }
       ],
       "result": {
@@ -5842,8 +7758,16 @@ window.SCENES_DATA = {
           "japanese": "このチョコレート、"
         },
         {
-          "korean": "사실 너 주려고",
-          "japanese": "本当は君にあげようと"
+          "korean": "사실",
+          "japanese": "本当は"
+        },
+        {
+          "korean": "너",
+          "japanese": "君に"
+        },
+        {
+          "korean": "주려고",
+          "japanese": "あげようと"
         },
         {
           "korean": "샀어",
@@ -5870,12 +7794,28 @@ window.SCENES_DATA = {
       "title": "本",
       "chunks": [
         {
-          "korean": "오래된 책 냄새 맡으면",
-          "japanese": "古い本の匂いを嗅ぐと"
+          "korean": "오래된",
+          "japanese": "古い"
         },
         {
-          "korean": "마음이 차분해져",
-          "japanese": "心が落ち着くんだ"
+          "korean": "책",
+          "japanese": "本の"
+        },
+        {
+          "korean": "냄새",
+          "japanese": "匂いを"
+        },
+        {
+          "korean": "맡으면",
+          "japanese": "嗅ぐと"
+        },
+        {
+          "korean": "마음이",
+          "japanese": "心が"
+        },
+        {
+          "korean": "차분해져",
+          "japanese": "落ち着くんだ"
         }
       ],
       "result": {
@@ -5902,12 +7842,24 @@ window.SCENES_DATA = {
           "japanese": "子どもの頃"
         },
         {
-          "korean": "아빠 손 잡고",
-          "japanese": "お父さんの手を握って"
+          "korean": "아빠",
+          "japanese": "お父さんの"
         },
         {
-          "korean": "코끼리 보러 왔었는데",
-          "japanese": "ゾウを見に来たっけ"
+          "korean": "손",
+          "japanese": "手を"
+        },
+        {
+          "korean": "잡고",
+          "japanese": "握って"
+        },
+        {
+          "korean": "코끼리",
+          "japanese": "ゾウを"
+        },
+        {
+          "korean": "보러 왔었는데",
+          "japanese": "見に来たっけ"
         }
       ],
       "result": {
@@ -5933,8 +7885,16 @@ window.SCENES_DATA = {
           "japanese": "停電したけど"
         },
         {
-          "korean": "촛불 켜 놓으니까 분위기 있다",
-          "japanese": "ろうそくをつけたら雰囲気があるね"
+          "korean": "촛불",
+          "japanese": "ろうそくを"
+        },
+        {
+          "korean": "켜 놓으니까",
+          "japanese": "つけたら"
+        },
+        {
+          "korean": "분위기 있다",
+          "japanese": "雰囲気があるね"
         }
       ],
       "result": {
@@ -5956,12 +7916,24 @@ window.SCENES_DATA = {
       "title": "クモ",
       "chunks": [
         {
-          "korean": "천장에 거미 봤다고",
-          "japanese": "天井にクモを見たって"
+          "korean": "천장에",
+          "japanese": "天井に"
         },
         {
-          "korean": "소리 지른 거 너잖아",
-          "japanese": "叫んだのは君じゃん"
+          "korean": "거미",
+          "japanese": "クモを"
+        },
+        {
+          "korean": "봤다고",
+          "japanese": "見たって"
+        },
+        {
+          "korean": "소리 지른 거",
+          "japanese": "叫んだの"
+        },
+        {
+          "korean": "너잖아",
+          "japanese": "君じゃん"
         }
       ],
       "result": {
@@ -5988,8 +7960,12 @@ window.SCENES_DATA = {
           "japanese": "結婚式場に"
         },
         {
-          "korean": "바이올린 선율이",
-          "japanese": "バイオリンの調べが"
+          "korean": "바이올린",
+          "japanese": "バイオリンの"
+        },
+        {
+          "korean": "선율이",
+          "japanese": "調べが"
         },
         {
           "korean": "울려 퍼졌어",
@@ -6016,12 +7992,24 @@ window.SCENES_DATA = {
       "title": "電球",
       "chunks": [
         {
-          "korean": "전구가 깜빡거리는 밤엔",
-          "japanese": "電球がちらつく夜は"
+          "korean": "전구가",
+          "japanese": "電球が"
         },
         {
-          "korean": "왠지 잠이 안 와",
-          "japanese": "なぜか眠れないんだ"
+          "korean": "깜빡거리는",
+          "japanese": "ちらつく"
+        },
+        {
+          "korean": "밤엔",
+          "japanese": "夜は"
+        },
+        {
+          "korean": "왠지",
+          "japanese": "なぜか"
+        },
+        {
+          "korean": "잠이 안 와",
+          "japanese": "眠れないんだ"
         }
       ],
       "result": {
@@ -6044,12 +8032,24 @@ window.SCENES_DATA = {
       "title": "メロン",
       "chunks": [
         {
-          "korean": "특별한 날이니까",
-          "japanese": "特別な日だから"
+          "korean": "특별한",
+          "japanese": "特別な"
         },
         {
-          "korean": "멜론 좀 썰어 볼까",
-          "japanese": "メロンでも切ってみようか"
+          "korean": "날이니까",
+          "japanese": "日だから"
+        },
+        {
+          "korean": "멜론",
+          "japanese": "メロンでも"
+        },
+        {
+          "korean": "좀",
+          "japanese": "ちょっと"
+        },
+        {
+          "korean": "썰어 볼까",
+          "japanese": "切ってみようか"
         }
       ],
       "result": {
@@ -6071,12 +8071,24 @@ window.SCENES_DATA = {
       "title": "てんとう虫",
       "chunks": [
         {
-          "korean": "무당벌레가 손등에 앉으면",
-          "japanese": "てんとう虫が手の甲に止まると"
+          "korean": "무당벌레가",
+          "japanese": "てんとう虫が"
         },
         {
-          "korean": "행운이 온대",
-          "japanese": "幸運が来るんだって"
+          "korean": "손등에",
+          "japanese": "手の甲に"
+        },
+        {
+          "korean": "앉으면",
+          "japanese": "止まると"
+        },
+        {
+          "korean": "행운이",
+          "japanese": "幸運が"
+        },
+        {
+          "korean": "온대",
+          "japanese": "来るんだって"
         }
       ],
       "result": {
@@ -6103,8 +8115,12 @@ window.SCENES_DATA = {
           "japanese": "夜食に"
         },
         {
-          "korean": "햄버거 시켜 먹을까?",
-          "japanese": "ハンバーガーでも頼もうか？"
+          "korean": "햄버거",
+          "japanese": "ハンバーガーでも"
+        },
+        {
+          "korean": "시켜 먹을까?",
+          "japanese": "頼もうか？"
         }
       ],
       "result": {
@@ -6131,8 +8147,16 @@ window.SCENES_DATA = {
           "japanese": "うちの赤ちゃんが"
         },
         {
-          "korean": "오늘 처음 웃었어",
-          "japanese": "今日初めて笑ったんだよ"
+          "korean": "오늘",
+          "japanese": "今日"
+        },
+        {
+          "korean": "처음",
+          "japanese": "初めて"
+        },
+        {
+          "korean": "웃었어",
+          "japanese": "笑ったんだよ"
         }
       ],
       "result": {
@@ -6158,8 +8182,16 @@ window.SCENES_DATA = {
           "japanese": "クマみたいに"
         },
         {
-          "korean": "겨울잠이나 실컷 자고 싶다",
-          "japanese": "冬眠でもたっぷりしたいな"
+          "korean": "겨울잠이나",
+          "japanese": "冬眠でも"
+        },
+        {
+          "korean": "실컷",
+          "japanese": "たっぷり"
+        },
+        {
+          "korean": "자고 싶다",
+          "japanese": "したいな"
         }
       ],
       "result": {
@@ -6182,12 +8214,24 @@ window.SCENES_DATA = {
       "title": "ボクシング",
       "chunks": [
         {
-          "korean": "권투 배운 지 석 달 됐는데",
-          "japanese": "ボクシングを習って3ヶ月なんだけど"
+          "korean": "권투",
+          "japanese": "ボクシングを"
         },
         {
-          "korean": "팔이 후들거려",
-          "japanese": "腕がプルプルするよ"
+          "korean": "배운 지",
+          "japanese": "習って"
+        },
+        {
+          "korean": "석 달 됐는데",
+          "japanese": "3ヶ月なんだけど"
+        },
+        {
+          "korean": "팔이",
+          "japanese": "腕が"
+        },
+        {
+          "korean": "후들거려",
+          "japanese": "プルプルするよ"
         }
       ],
       "result": {
@@ -6210,12 +8254,24 @@ window.SCENES_DATA = {
       "title": "桜",
       "chunks": [
         {
-          "korean": "벚꽃 지기 전에",
-          "japanese": "桜が散る前に"
+          "korean": "벚꽃",
+          "japanese": "桜が"
         },
         {
-          "korean": "같이 사진 찍자",
-          "japanese": "一緒に写真を撮ろう"
+          "korean": "지기 전에",
+          "japanese": "散る前に"
+        },
+        {
+          "korean": "같이",
+          "japanese": "一緒に"
+        },
+        {
+          "korean": "사진",
+          "japanese": "写真を"
+        },
+        {
+          "korean": "찍자",
+          "japanese": "撮ろう"
         }
       ],
       "result": {
@@ -6237,12 +8293,24 @@ window.SCENES_DATA = {
       "title": "キャップ",
       "chunks": [
         {
-          "korean": "햇볕 강하니까",
-          "japanese": "日差しが強いから"
+          "korean": "햇볕",
+          "japanese": "日差しが"
         },
         {
-          "korean": "모자 하나 쓰고 나가",
-          "japanese": "帽子をかぶって出かけてね"
+          "korean": "강하니까",
+          "japanese": "強いから"
+        },
+        {
+          "korean": "모자",
+          "japanese": "帽子を"
+        },
+        {
+          "korean": "하나",
+          "japanese": "一つ"
+        },
+        {
+          "korean": "쓰고 나가",
+          "japanese": "かぶって出かけてね"
         }
       ],
       "result": {
@@ -6264,12 +8332,28 @@ window.SCENES_DATA = {
       "title": "絵の具",
       "chunks": [
         {
-          "korean": "팔레트에 물감 섞다가",
-          "japanese": "絵の具をパレットで混ぜてたら"
+          "korean": "팔레트에",
+          "japanese": "パレットで"
         },
         {
-          "korean": "시간 가는 줄 몰랐어",
-          "japanese": "時間を忘れちゃった"
+          "korean": "물감",
+          "japanese": "絵の具を"
+        },
+        {
+          "korean": "섞다가",
+          "japanese": "混ぜてたら"
+        },
+        {
+          "korean": "시간",
+          "japanese": "時間が"
+        },
+        {
+          "korean": "가는 줄",
+          "japanese": "経つのも"
+        },
+        {
+          "korean": "몰랐어",
+          "japanese": "忘れちゃった"
         }
       ],
       "result": {
@@ -6296,12 +8380,20 @@ window.SCENES_DATA = {
           "japanese": "雨上がりの日に"
         },
         {
-          "korean": "운동장에서 축구하면",
-          "japanese": "運動場でサッカーすると"
+          "korean": "운동장에서",
+          "japanese": "運動場で"
         },
         {
-          "korean": "다 진흙투성이야",
-          "japanese": "みんな泥だらけになるんだ"
+          "korean": "축구하면",
+          "japanese": "サッカーすると"
+        },
+        {
+          "korean": "다",
+          "japanese": "みんな"
+        },
+        {
+          "korean": "진흙투성이야",
+          "japanese": "泥だらけになるんだ"
         }
       ],
       "result": {
@@ -6328,8 +8420,16 @@ window.SCENES_DATA = {
           "japanese": "梅雨の時期は"
         },
         {
-          "korean": "달팽이가 자주 보이더라",
-          "japanese": "カタツムリをよく見かけるんだ"
+          "korean": "달팽이가",
+          "japanese": "カタツムリを"
+        },
+        {
+          "korean": "자주",
+          "japanese": "よく"
+        },
+        {
+          "korean": "보이더라",
+          "japanese": "見かけるんだ"
         }
       ],
       "result": {
@@ -6352,16 +8452,24 @@ window.SCENES_DATA = {
       "title": "スケート",
       "chunks": [
         {
-          "korean": "스케이트 타면서",
-          "japanese": "スケートしてて"
+          "korean": "스케이트",
+          "japanese": "スケート"
+        },
+        {
+          "korean": "타면서",
+          "japanese": "してて"
         },
         {
           "korean": "넘어질 뻔했는데,",
           "japanese": "転びそうになったけど、"
         },
         {
-          "korean": "네가 잡아 줬잖아",
-          "japanese": "君が支えてくれたよね"
+          "korean": "네가",
+          "japanese": "君が"
+        },
+        {
+          "korean": "잡아 줬잖아",
+          "japanese": "支えてくれたよね"
         }
       ],
       "result": {
@@ -6383,12 +8491,24 @@ window.SCENES_DATA = {
       "title": "ニワトリ",
       "chunks": [
         {
-          "korean": "닭 우는 소리에",
-          "japanese": "鶏の鳴き声で"
+          "korean": "닭",
+          "japanese": "鶏の"
         },
         {
-          "korean": "잠에서 깼어",
-          "japanese": "目が覚めたよ"
+          "korean": "우는",
+          "japanese": "鳴く"
+        },
+        {
+          "korean": "소리에",
+          "japanese": "声で"
+        },
+        {
+          "korean": "잠에서",
+          "japanese": "眠りから"
+        },
+        {
+          "korean": "깼어",
+          "japanese": "覚めたよ"
         }
       ],
       "result": {
@@ -6415,8 +8535,12 @@ window.SCENES_DATA = {
           "japanese": "朝は"
         },
         {
-          "korean": "바나나 하나면",
-          "japanese": "バナナ一本で"
+          "korean": "바나나",
+          "japanese": "バナナ"
+        },
+        {
+          "korean": "하나면",
+          "japanese": "一本で"
         },
         {
           "korean": "충분해",
@@ -6443,12 +8567,24 @@ window.SCENES_DATA = {
       "title": "魚",
       "chunks": [
         {
-          "korean": "어항 속 물고기 보고 있으면",
-          "japanese": "水槽の魚を見ていると"
+          "korean": "어항 속",
+          "japanese": "水槽の"
         },
         {
-          "korean": "마음이 편해져",
-          "japanese": "心が落ち着くんだ"
+          "korean": "물고기",
+          "japanese": "魚を"
+        },
+        {
+          "korean": "보고 있으면",
+          "japanese": "見ていると"
+        },
+        {
+          "korean": "마음이",
+          "japanese": "心が"
+        },
+        {
+          "korean": "편해져",
+          "japanese": "落ち着くんだ"
         }
       ],
       "result": {
@@ -6471,12 +8607,20 @@ window.SCENES_DATA = {
       "title": "レモン",
       "chunks": [
         {
-          "korean": "너 생각하면",
-          "japanese": "君のことを考えると"
+          "korean": "너",
+          "japanese": "君の"
         },
         {
-          "korean": "레몬 먹은 것처럼",
-          "japanese": "レモンを食べたみたいに"
+          "korean": "생각하면",
+          "japanese": "ことを考えると"
+        },
+        {
+          "korean": "레몬",
+          "japanese": "レモンを"
+        },
+        {
+          "korean": "먹은 것처럼",
+          "japanese": "食べたみたいに"
         },
         {
           "korean": "시큼해져",
@@ -6506,12 +8650,20 @@ window.SCENES_DATA = {
           "japanese": "ごめんね、"
         },
         {
-          "korean": "사과하는 의미로",
-          "japanese": "謝る気持ちで"
+          "korean": "사과하는",
+          "japanese": "謝る"
         },
         {
-          "korean": "사과 사 왔어",
-          "japanese": "りんごを買ってきたよ"
+          "korean": "의미로",
+          "japanese": "気持ちで"
+        },
+        {
+          "korean": "사과",
+          "japanese": "りんごを"
+        },
+        {
+          "korean": "사 왔어",
+          "japanese": "買ってきたよ"
         }
       ],
       "result": {
@@ -6533,12 +8685,20 @@ window.SCENES_DATA = {
       "title": "ヒョウ",
       "chunks": [
         {
-          "korean": "저 표범 눈빛 봐,",
-          "japanese": "あのヒョウの目つき見て、"
+          "korean": "저 표범",
+          "japanese": "あのヒョウの"
         },
         {
-          "korean": "진짜 멋있다",
-          "japanese": "本当にかっこいいね"
+          "korean": "눈빛 봐,",
+          "japanese": "目つき見て、"
+        },
+        {
+          "korean": "진짜",
+          "japanese": "本当に"
+        },
+        {
+          "korean": "멋있다",
+          "japanese": "かっこいいね"
         }
       ],
       "result": {
@@ -6560,8 +8720,12 @@ window.SCENES_DATA = {
       "title": "ピーナッツ",
       "chunks": [
         {
-          "korean": "땅콩 알레르기 있다고 했지,",
-          "japanese": "ピーナッツアレルギーあるって言ってたよね、"
+          "korean": "땅콩",
+          "japanese": "ピーナッツ"
+        },
+        {
+          "korean": "알레르기 있다고 했지,",
+          "japanese": "アレルギーあるって言ってたよね、"
         },
         {
           "korean": "조심할게",
@@ -6588,12 +8752,28 @@ window.SCENES_DATA = {
       "title": "チゲ鍋",
       "chunks": [
         {
-          "korean": "찌개 끓는 소리 들으니까",
-          "japanese": "チゲが煮える音を聞くと"
+          "korean": "찌개",
+          "japanese": "チゲが"
         },
         {
-          "korean": "집 생각난다",
-          "japanese": "家を思い出すな"
+          "korean": "끓는",
+          "japanese": "煮える"
+        },
+        {
+          "korean": "소리",
+          "japanese": "音を"
+        },
+        {
+          "korean": "들으니까",
+          "japanese": "聞くと"
+        },
+        {
+          "korean": "집",
+          "japanese": "家を"
+        },
+        {
+          "korean": "생각난다",
+          "japanese": "思い出すな"
         }
       ],
       "result": {
@@ -6616,16 +8796,28 @@ window.SCENES_DATA = {
       "title": "スパゲッティ",
       "chunks": [
         {
-          "korean": "처음 만든",
-          "japanese": "初めて作った"
+          "korean": "처음",
+          "japanese": "初めて"
+        },
+        {
+          "korean": "만든",
+          "japanese": "作った"
         },
         {
           "korean": "스파게티인데",
           "japanese": "スパゲッティなんだけど"
         },
         {
-          "korean": "맛 좀 봐 줄래?",
-          "japanese": "味見してくれる？"
+          "korean": "맛",
+          "japanese": "味"
+        },
+        {
+          "korean": "좀",
+          "japanese": "ちょっと"
+        },
+        {
+          "korean": "봐 줄래?",
+          "japanese": "見てくれる？"
         }
       ],
       "result": {
@@ -6648,12 +8840,28 @@ window.SCENES_DATA = {
       "title": "ほうき",
       "chunks": [
         {
-          "korean": "낙엽 쌓인 마당,",
-          "japanese": "落ち葉が積もった庭を、"
+          "korean": "낙엽",
+          "japanese": "落ち葉が"
         },
         {
-          "korean": "같이 빗자루로 쓸자",
-          "japanese": "一緒にほうきで掃こうよ"
+          "korean": "쌓인",
+          "japanese": "積もった"
+        },
+        {
+          "korean": "마당,",
+          "japanese": "庭を、"
+        },
+        {
+          "korean": "같이",
+          "japanese": "一緒に"
+        },
+        {
+          "korean": "빗자루로",
+          "japanese": "ほうきで"
+        },
+        {
+          "korean": "쓸자",
+          "japanese": "掃こうよ"
         }
       ],
       "result": {
@@ -6676,12 +8884,20 @@ window.SCENES_DATA = {
       "title": "ワニ",
       "chunks": [
         {
-          "korean": "저기 물속에",
-          "japanese": "あそこの水の中に"
+          "korean": "저기",
+          "japanese": "あそこの"
         },
         {
-          "korean": "악어 있는 거 보여?",
-          "japanese": "ワニがいるの見える？"
+          "korean": "물속에",
+          "japanese": "水の中に"
+        },
+        {
+          "korean": "악어",
+          "japanese": "ワニが"
+        },
+        {
+          "korean": "있는 거 보여?",
+          "japanese": "いるの見える？"
         }
       ],
       "result": {
@@ -6704,12 +8920,24 @@ window.SCENES_DATA = {
       "title": "ウサギ",
       "chunks": [
         {
-          "korean": "보름달 보면",
-          "japanese": "満月を見ると"
+          "korean": "보름달",
+          "japanese": "満月を"
         },
         {
-          "korean": "토끼가 떡방아 찧는 게 보인대",
-          "japanese": "ウサギが餅つきしてるのが見えるんだって"
+          "korean": "보면",
+          "japanese": "見ると"
+        },
+        {
+          "korean": "토끼가",
+          "japanese": "ウサギが"
+        },
+        {
+          "korean": "떡방아 찧는 게",
+          "japanese": "餅つきしてるのが"
+        },
+        {
+          "korean": "보인대",
+          "japanese": "見えるんだって"
         }
       ],
       "result": {
@@ -6732,12 +8960,24 @@ window.SCENES_DATA = {
       "title": "旗",
       "chunks": [
         {
-          "korean": "결승선에 깃발 꽂는 순간",
-          "japanese": "ゴールに旗を立てた瞬間"
+          "korean": "결승선에",
+          "japanese": "ゴールに"
         },
         {
-          "korean": "다 같이 소리 질렀어",
-          "japanese": "みんなで歓声をあげたよ"
+          "korean": "깃발",
+          "japanese": "旗を"
+        },
+        {
+          "korean": "꽂는 순간",
+          "japanese": "立てた瞬間"
+        },
+        {
+          "korean": "다 같이",
+          "japanese": "みんなで"
+        },
+        {
+          "korean": "소리 질렀어",
+          "japanese": "歓声をあげたよ"
         }
       ],
       "result": {
@@ -6764,12 +9004,24 @@ window.SCENES_DATA = {
           "japanese": "明け方に"
         },
         {
-          "korean": "빵 굽는 냄새가",
-          "japanese": "パンを焼く匂いが"
+          "korean": "빵",
+          "japanese": "パンを"
         },
         {
-          "korean": "여기까지 나",
-          "japanese": "ここまで漂ってくるよ"
+          "korean": "굽는",
+          "japanese": "焼く"
+        },
+        {
+          "korean": "냄새가",
+          "japanese": "匂いが"
+        },
+        {
+          "korean": "여기까지",
+          "japanese": "ここまで"
+        },
+        {
+          "korean": "나",
+          "japanese": "漂ってくるよ"
         }
       ],
       "result": {
@@ -6796,12 +9048,20 @@ window.SCENES_DATA = {
           "japanese": "池に"
         },
         {
-          "korean": "새끼 오리들이",
-          "japanese": "カモの子どもたちが"
+          "korean": "새끼",
+          "japanese": "子の"
         },
         {
-          "korean": "줄지어 다녀",
-          "japanese": "列になって歩いてるよ"
+          "korean": "오리들이",
+          "japanese": "カモたちが"
+        },
+        {
+          "korean": "줄지어",
+          "japanese": "列になって"
+        },
+        {
+          "korean": "다녀",
+          "japanese": "歩いてるよ"
         }
       ],
       "result": {
@@ -6823,12 +9083,24 @@ window.SCENES_DATA = {
       "title": "牛乳",
       "chunks": [
         {
-          "korean": "우유 많이 마시면",
-          "japanese": "牛乳をたくさん飲めば"
+          "korean": "우유",
+          "japanese": "牛乳を"
         },
         {
-          "korean": "키 큰다고 했잖아",
-          "japanese": "背が伸びるって言ったじゃない"
+          "korean": "많이",
+          "japanese": "たくさん"
+        },
+        {
+          "korean": "마시면",
+          "japanese": "飲めば"
+        },
+        {
+          "korean": "키",
+          "japanese": "背が"
+        },
+        {
+          "korean": "큰다고 했잖아",
+          "japanese": "伸びるって言ったじゃない"
         }
       ],
       "result": {
@@ -6850,12 +9122,24 @@ window.SCENES_DATA = {
       "title": "夜景",
       "chunks": [
         {
-          "korean": "옥상에서 보는 야경이",
-          "japanese": "屋上から見る夜景が"
+          "korean": "옥상에서",
+          "japanese": "屋上から"
         },
         {
-          "korean": "오늘따라 예쁘다",
-          "japanese": "今夜はとくに綺麗だね"
+          "korean": "보는",
+          "japanese": "見る"
+        },
+        {
+          "korean": "야경이",
+          "japanese": "夜景が"
+        },
+        {
+          "korean": "오늘따라",
+          "japanese": "今夜は特に"
+        },
+        {
+          "korean": "예쁘다",
+          "japanese": "綺麗だね"
         }
       ],
       "result": {
@@ -6878,12 +9162,20 @@ window.SCENES_DATA = {
       "title": "カバ",
       "chunks": [
         {
-          "korean": "하마가 물속에",
-          "japanese": "カバが水の中に"
+          "korean": "하마가",
+          "japanese": "カバが"
         },
         {
-          "korean": "첨벙 들어가는 거 봤어?",
-          "japanese": "バシャンと入るの見た？"
+          "korean": "물속에",
+          "japanese": "水の中に"
+        },
+        {
+          "korean": "첨벙",
+          "japanese": "バシャンと"
+        },
+        {
+          "korean": "들어가는 거 봤어?",
+          "japanese": "入るの見た？"
         }
       ],
       "result": {
@@ -6906,16 +9198,28 @@ window.SCENES_DATA = {
       "title": "コウモリ",
       "chunks": [
         {
-          "korean": "동굴 안에서",
-          "japanese": "洞窟の中で"
+          "korean": "동굴",
+          "japanese": "洞窟の"
         },
         {
-          "korean": "박쥐 떼가",
-          "japanese": "コウモリの群れが"
+          "korean": "안에서",
+          "japanese": "中で"
         },
         {
-          "korean": "갑자기 날아올랐어",
-          "japanese": "急に飛び立ったんだ"
+          "korean": "박쥐",
+          "japanese": "コウモリの"
+        },
+        {
+          "korean": "떼가",
+          "japanese": "群れが"
+        },
+        {
+          "korean": "갑자기",
+          "japanese": "急に"
+        },
+        {
+          "korean": "날아올랐어",
+          "japanese": "飛び立ったんだ"
         }
       ],
       "result": {
@@ -6938,12 +9242,20 @@ window.SCENES_DATA = {
       "title": "飛行機",
       "chunks": [
         {
-          "korean": "비행기 타기 전에",
-          "japanese": "飛行機に乗る前に"
+          "korean": "비행기",
+          "japanese": "飛行機に"
         },
         {
-          "korean": "마지막으로 안아 줄래?",
-          "japanese": "最後にハグしてくれる？"
+          "korean": "타기 전에",
+          "japanese": "乗る前に"
+        },
+        {
+          "korean": "마지막으로",
+          "japanese": "最後に"
+        },
+        {
+          "korean": "안아 줄래?",
+          "japanese": "ハグしてくれる？"
         }
       ],
       "result": {
@@ -6965,12 +9277,24 @@ window.SCENES_DATA = {
       "title": "カメラ",
       "chunks": [
         {
-          "korean": "이 순간 놓치기 아까워서",
-          "japanese": "この瞬間を逃すのが惜しくて"
+          "korean": "이 순간",
+          "japanese": "この瞬間を"
         },
         {
-          "korean": "카메라부터 꺼냈어",
-          "japanese": "まずカメラを取り出したよ"
+          "korean": "놓치기",
+          "japanese": "逃すのが"
+        },
+        {
+          "korean": "아까워서",
+          "japanese": "惜しくて"
+        },
+        {
+          "korean": "카메라부터",
+          "japanese": "まずカメラを"
+        },
+        {
+          "korean": "꺼냈어",
+          "japanese": "取り出したよ"
         }
       ],
       "result": {
@@ -6997,8 +9321,12 @@ window.SCENES_DATA = {
           "japanese": "この手紙、"
         },
         {
-          "korean": "십 년 뒤에 열어 보자",
-          "japanese": "10年後に開けてみようね"
+          "korean": "십 년 뒤에",
+          "japanese": "10年後に"
+        },
+        {
+          "korean": "열어 보자",
+          "japanese": "開けてみようね"
         }
       ],
       "result": {
@@ -7021,12 +9349,28 @@ window.SCENES_DATA = {
       "title": "お茶",
       "chunks": [
         {
-          "korean": "따뜻한 녹차 한 잔 하면서",
-          "japanese": "温かいお茶を一杯飲みながら"
+          "korean": "따뜻한",
+          "japanese": "温かい"
         },
         {
-          "korean": "좀 쉬자",
-          "japanese": "少し休もう"
+          "korean": "녹차",
+          "japanese": "お茶を"
+        },
+        {
+          "korean": "한 잔",
+          "japanese": "一杯"
+        },
+        {
+          "korean": "하면서",
+          "japanese": "飲みながら"
+        },
+        {
+          "korean": "좀",
+          "japanese": "少し"
+        },
+        {
+          "korean": "쉬자",
+          "japanese": "休もう"
         }
       ],
       "result": {
@@ -7048,12 +9392,24 @@ window.SCENES_DATA = {
       "title": "トラ",
       "chunks": [
         {
-          "korean": "호랑이 눈빛 보니까",
-          "japanese": "トラの目つきを見たら"
+          "korean": "호랑이",
+          "japanese": "トラの"
         },
         {
-          "korean": "심장이 쿵쾅거려",
-          "japanese": "心臓がドキドキするよ"
+          "korean": "눈빛",
+          "japanese": "目つきを"
+        },
+        {
+          "korean": "보니까",
+          "japanese": "見たら"
+        },
+        {
+          "korean": "심장이",
+          "japanese": "心臓が"
+        },
+        {
+          "korean": "쿵쾅거려",
+          "japanese": "ドキドキするよ"
         }
       ],
       "result": {
@@ -7079,8 +9435,12 @@ window.SCENES_DATA = {
           "japanese": "この指輪、"
         },
         {
-          "korean": "몇 달 동안 준비한 거야",
-          "japanese": "何ヶ月もかけて用意したんだ"
+          "korean": "몇 달 동안",
+          "japanese": "何ヶ月もかけて"
+        },
+        {
+          "korean": "준비한 거야",
+          "japanese": "用意したんだ"
         }
       ],
       "result": {
@@ -7103,12 +9463,28 @@ window.SCENES_DATA = {
       "title": "自転車",
       "chunks": [
         {
-          "korean": "학교 끝나고",
-          "japanese": "放課後に"
+          "korean": "학교",
+          "japanese": "学校が"
         },
         {
-          "korean": "자전거로 같이 집에 가던 때가",
-          "japanese": "自転車で一緒に帰った日々が"
+          "korean": "끝나고",
+          "japanese": "終わって"
+        },
+        {
+          "korean": "자전거로",
+          "japanese": "自転車で"
+        },
+        {
+          "korean": "같이",
+          "japanese": "一緒に"
+        },
+        {
+          "korean": "집에",
+          "japanese": "家に"
+        },
+        {
+          "korean": "가던 때가",
+          "japanese": "帰った日々が"
         },
         {
           "korean": "그립다",
@@ -7134,12 +9510,24 @@ window.SCENES_DATA = {
       "title": "ヘリコプター",
       "chunks": [
         {
-          "korean": "밤중에 헬리콥터 소리 나서",
-          "japanese": "夜中にヘリコプターの音がして"
+          "korean": "밤중에",
+          "japanese": "夜中に"
         },
         {
-          "korean": "잠깐 깼어",
-          "japanese": "少し目が覚めたよ"
+          "korean": "헬리콥터",
+          "japanese": "ヘリコプターの"
+        },
+        {
+          "korean": "소리 나서",
+          "japanese": "音がして"
+        },
+        {
+          "korean": "잠깐",
+          "japanese": "少し"
+        },
+        {
+          "korean": "깼어",
+          "japanese": "目が覚めたよ"
         }
       ],
       "result": {
@@ -7162,12 +9550,24 @@ window.SCENES_DATA = {
       "title": "キックボード",
       "chunks": [
         {
-          "korean": "저녁에 킥보드 타고",
-          "japanese": "夕方キックボードに乗って"
+          "korean": "저녁에",
+          "japanese": "夕方"
         },
         {
-          "korean": "한강까지 가 볼래?",
-          "japanese": "漢江まで行ってみない？"
+          "korean": "킥보드",
+          "japanese": "キックボードに"
+        },
+        {
+          "korean": "타고",
+          "japanese": "乗って"
+        },
+        {
+          "korean": "한강까지",
+          "japanese": "漢江まで"
+        },
+        {
+          "korean": "가 볼래?",
+          "japanese": "行ってみない？"
         }
       ],
       "result": {
@@ -7194,8 +9594,16 @@ window.SCENES_DATA = {
           "japanese": "泣かないで"
         },
         {
-          "korean": "이 사탕 하나 먹어",
-          "japanese": "この飴を一つ食べて"
+          "korean": "이 사탕",
+          "japanese": "この飴を"
+        },
+        {
+          "korean": "하나",
+          "japanese": "一つ"
+        },
+        {
+          "korean": "먹어",
+          "japanese": "食べて"
         }
       ],
       "result": {
@@ -7217,12 +9625,20 @@ window.SCENES_DATA = {
       "title": "お金",
       "chunks": [
         {
-          "korean": "이 돈 모아서",
-          "japanese": "このお金を貯めて"
+          "korean": "이 돈",
+          "japanese": "このお金を"
         },
         {
-          "korean": "같이 여행 가자",
-          "japanese": "一緒に旅行に行こうよ"
+          "korean": "모아서",
+          "japanese": "貯めて"
+        },
+        {
+          "korean": "같이",
+          "japanese": "一緒に"
+        },
+        {
+          "korean": "여행 가자",
+          "japanese": "旅行に行こうよ"
         }
       ],
       "result": {
@@ -7248,8 +9664,12 @@ window.SCENES_DATA = {
           "japanese": "お祭りで"
         },
         {
-          "korean": "핫도그 하나씩",
-          "japanese": "ホットドッグをひとつずつ"
+          "korean": "핫도그",
+          "japanese": "ホットドッグを"
+        },
+        {
+          "korean": "하나씩",
+          "japanese": "ひとつずつ"
         },
         {
           "korean": "사 먹을까",
@@ -7280,8 +9700,16 @@ window.SCENES_DATA = {
           "japanese": "この鍵、"
         },
         {
-          "korean": "너한테 하나 맡겨 두고 싶어",
-          "japanese": "君に一つ預けておきたいんだ"
+          "korean": "너한테",
+          "japanese": "君に"
+        },
+        {
+          "korean": "하나",
+          "japanese": "一つ"
+        },
+        {
+          "korean": "맡겨 두고 싶어",
+          "japanese": "預けておきたいんだ"
         }
       ],
       "result": {
@@ -7308,8 +9736,12 @@ window.SCENES_DATA = {
           "japanese": "このハンドバッグ、"
         },
         {
-          "korean": "엄마가 물려주신 거야",
-          "japanese": "お母さんが譲ってくれたものなんだ"
+          "korean": "엄마가",
+          "japanese": "お母さんが"
+        },
+        {
+          "korean": "물려주신 거야",
+          "japanese": "譲ってくれたものなんだ"
         }
       ],
       "result": {
@@ -7332,12 +9764,24 @@ window.SCENES_DATA = {
       "title": "リス",
       "chunks": [
         {
-          "korean": "공원에 다람쥐가",
-          "japanese": "公園でリスが"
+          "korean": "공원에",
+          "japanese": "公園で"
         },
         {
-          "korean": "도토리 모으느라 바쁘다",
-          "japanese": "どんぐり集めに忙しいね"
+          "korean": "다람쥐가",
+          "japanese": "リスが"
+        },
+        {
+          "korean": "도토리",
+          "japanese": "どんぐり"
+        },
+        {
+          "korean": "모으느라",
+          "japanese": "集めに"
+        },
+        {
+          "korean": "바쁘다",
+          "japanese": "忙しいね"
         }
       ],
       "result": {
@@ -7359,12 +9803,20 @@ window.SCENES_DATA = {
       "title": "サル",
       "chunks": [
         {
-          "korean": "원숭이가 장난치는 거 보고",
-          "japanese": "サルがふざけてるのを見て"
+          "korean": "원숭이가",
+          "japanese": "サルが"
         },
         {
-          "korean": "완전 웃었잖아",
-          "japanese": "めっちゃ笑ったよね"
+          "korean": "장난치는 거 보고",
+          "japanese": "ふざけてるのを見て"
+        },
+        {
+          "korean": "완전",
+          "japanese": "めっちゃ"
+        },
+        {
+          "korean": "웃었잖아",
+          "japanese": "笑ったよね"
         }
       ],
       "result": {
@@ -7387,12 +9839,20 @@ window.SCENES_DATA = {
       "title": "ドーナツ",
       "chunks": [
         {
-          "korean": "일요일 아침은",
-          "japanese": "日曜の朝は"
+          "korean": "일요일",
+          "japanese": "日曜の"
         },
         {
-          "korean": "도넛이랑 커피가",
-          "japanese": "ドーナツとコーヒーが"
+          "korean": "아침은",
+          "japanese": "朝は"
+        },
+        {
+          "korean": "도넛이랑",
+          "japanese": "ドーナツと"
+        },
+        {
+          "korean": "커피가",
+          "japanese": "コーヒーが"
         },
         {
           "korean": "어울려",
@@ -7418,12 +9878,28 @@ window.SCENES_DATA = {
       "title": "落ち葉",
       "chunks": [
         {
-          "korean": "낙엽 밟는 소리 들으면",
-          "japanese": "落ち葉を踏む音を聞くと"
+          "korean": "낙엽",
+          "japanese": "落ち葉を"
         },
         {
-          "korean": "괜히 쓸쓸해져",
-          "japanese": "なんだか切なくなるんだ"
+          "korean": "밟는",
+          "japanese": "踏む"
+        },
+        {
+          "korean": "소리",
+          "japanese": "音を"
+        },
+        {
+          "korean": "들으면",
+          "japanese": "聞くと"
+        },
+        {
+          "korean": "괜히",
+          "japanese": "なんだか"
+        },
+        {
+          "korean": "쓸쓸해져",
+          "japanese": "切なくなるんだ"
         }
       ],
       "result": {
@@ -7450,8 +9926,16 @@ window.SCENES_DATA = {
           "japanese": "秋には"
         },
         {
-          "korean": "버섯 넣은 전골이",
-          "japanese": "きのこ入りの鍋が"
+          "korean": "버섯",
+          "japanese": "きのこ"
+        },
+        {
+          "korean": "넣은",
+          "japanese": "入れた"
+        },
+        {
+          "korean": "전골이",
+          "japanese": "鍋が"
         },
         {
           "korean": "최고지",
@@ -7482,8 +9966,16 @@ window.SCENES_DATA = {
           "japanese": "夜市で"
         },
         {
-          "korean": "오징어 굽는 냄새가",
-          "japanese": "イカを焼く匂いが"
+          "korean": "오징어",
+          "japanese": "イカを"
+        },
+        {
+          "korean": "굽는",
+          "japanese": "焼く"
+        },
+        {
+          "korean": "냄새가",
+          "japanese": "匂いが"
         },
         {
           "korean": "진동하네",
@@ -7510,12 +10002,24 @@ window.SCENES_DATA = {
       "title": "お寿司",
       "chunks": [
         {
-          "korean": "우리 사귄 지 백일이니까",
-          "japanese": "付き合って100日だから"
+          "korean": "우리",
+          "japanese": "私たち"
         },
         {
-          "korean": "초밥 먹으러 가자",
-          "japanese": "お寿司を食べに行こう"
+          "korean": "사귄 지",
+          "japanese": "付き合って"
+        },
+        {
+          "korean": "백일이니까",
+          "japanese": "100日だから"
+        },
+        {
+          "korean": "초밥",
+          "japanese": "お寿司を"
+        },
+        {
+          "korean": "먹으러 가자",
+          "japanese": "食べに行こう"
         }
       ],
       "result": {
@@ -7537,12 +10041,20 @@ window.SCENES_DATA = {
       "title": "はちみつ",
       "chunks": [
         {
-          "korean": "목 아프면",
-          "japanese": "喉が痛いなら"
+          "korean": "목",
+          "japanese": "喉が"
         },
         {
-          "korean": "꿀물이라도 타 줄까?",
-          "japanese": "はちみつ湯でも作ろうか？"
+          "korean": "아프면",
+          "japanese": "痛いなら"
+        },
+        {
+          "korean": "꿀물이라도",
+          "japanese": "はちみつ湯でも"
+        },
+        {
+          "korean": "타 줄까?",
+          "japanese": "作ろうか？"
         }
       ],
       "result": {
@@ -7565,12 +10077,28 @@ window.SCENES_DATA = {
       "title": "サックス",
       "chunks": [
         {
-          "korean": "골목 끝에서 들리는",
-          "japanese": "路地の奥から聞こえる"
+          "korean": "골목",
+          "japanese": "路地の"
         },
         {
-          "korean": "색소폰 소리, 좋다",
-          "japanese": "サックスの音、いいね"
+          "korean": "끝에서",
+          "japanese": "奥から"
+        },
+        {
+          "korean": "들리는",
+          "japanese": "聞こえる"
+        },
+        {
+          "korean": "색소폰",
+          "japanese": "サックスの"
+        },
+        {
+          "korean": "소리,",
+          "japanese": "音、"
+        },
+        {
+          "korean": "좋다",
+          "japanese": "いいね"
         }
       ],
       "result": {
@@ -7592,12 +10120,24 @@ window.SCENES_DATA = {
       "title": "カエル",
       "chunks": [
         {
-          "korean": "장마철 밤엔",
-          "japanese": "梅雨の夜は"
+          "korean": "장마철",
+          "japanese": "梅雨の"
         },
         {
-          "korean": "개구리 소리가 시끄러워",
-          "japanese": "カエルの声がうるさいんだ"
+          "korean": "밤엔",
+          "japanese": "夜は"
+        },
+        {
+          "korean": "개구리",
+          "japanese": "カエルの"
+        },
+        {
+          "korean": "소리가",
+          "japanese": "声が"
+        },
+        {
+          "korean": "시끄러워",
+          "japanese": "うるさいんだ"
         }
       ],
       "result": {
@@ -7624,8 +10164,20 @@ window.SCENES_DATA = {
           "japanese": "面接の日だから"
         },
         {
-          "korean": "넥타이 매는 손이 떨려",
-          "japanese": "ネクタイを結ぶ手が震えるよ"
+          "korean": "넥타이",
+          "japanese": "ネクタイを"
+        },
+        {
+          "korean": "매는",
+          "japanese": "結ぶ"
+        },
+        {
+          "korean": "손이",
+          "japanese": "手が"
+        },
+        {
+          "korean": "떨려",
+          "japanese": "震えるよ"
         }
       ],
       "result": {
@@ -7651,8 +10203,12 @@ window.SCENES_DATA = {
           "japanese": "この宝石、"
         },
         {
-          "korean": "할머니한테서 물려받은 거래",
-          "japanese": "おばあちゃんから受け継いだものなんだって"
+          "korean": "할머니한테서",
+          "japanese": "おばあちゃんから"
+        },
+        {
+          "korean": "물려받은 거래",
+          "japanese": "受け継いだものなんだって"
         }
       ],
       "result": {
@@ -7674,12 +10230,20 @@ window.SCENES_DATA = {
       "title": "ひまわり",
       "chunks": [
         {
-          "korean": "나는 해바라기처럼",
-          "japanese": "私はひまわりみたいに"
+          "korean": "나는",
+          "japanese": "私は"
         },
         {
-          "korean": "네 쪽만 바라볼 거야",
-          "japanese": "君だけを見てるよ"
+          "korean": "해바라기처럼",
+          "japanese": "ひまわりみたいに"
+        },
+        {
+          "korean": "네 쪽만",
+          "japanese": "君だけを"
+        },
+        {
+          "korean": "바라볼 거야",
+          "japanese": "見てるよ"
         }
       ],
       "result": {
@@ -7702,12 +10266,20 @@ window.SCENES_DATA = {
       "title": "ポップコーン",
       "chunks": [
         {
-          "korean": "영화 시작하기 전에",
-          "japanese": "映画が始まる前に"
+          "korean": "영화",
+          "japanese": "映画が"
         },
         {
-          "korean": "팝콘부터 사자",
-          "japanese": "ポップコーンを買っておこう"
+          "korean": "시작하기 전에",
+          "japanese": "始まる前に"
+        },
+        {
+          "korean": "팝콘부터",
+          "japanese": "ポップコーンを"
+        },
+        {
+          "korean": "사자",
+          "japanese": "買っておこう"
         }
       ],
       "result": {
