@@ -14,6 +14,19 @@
 
 * { box-sizing: border-box; }
 
+.version-badge {
+  position: fixed;
+  right: 10px;
+  bottom: 8px;
+  z-index: 10;
+  font-size: 0.7rem;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.6);
+  padding: 2px 8px;
+  border-radius: 999px;
+  pointer-events: none;
+}
+
 body {
   margin: 0;
   font-family: "Hiragino Sans", "Noto Sans JP", "Apple SD Gothic Neo", sans-serif;
